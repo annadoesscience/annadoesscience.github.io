@@ -2,7 +2,7 @@
 layout: page
 title: Bioinformatics
 description: A bit of genetics
-img: assets/img/proj_bioinf.jpg
+img: assets/img/proj_bioinf1.jpg
 importance: 33
 category: Old Projects
 ---
