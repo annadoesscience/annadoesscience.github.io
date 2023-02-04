@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioinformatics
-description: A bit of genetics
+description: When I get tired of humans, I deal with computers
 img: assets/img/proj_bioinf1.jpg
 importance: 33
 category: Old Projects
