@@ -7,7 +7,7 @@ importance: 32
 category: Old Projects
 ---
 
-I conducted this project as part of my pursuit of a master's degree at the Department of Human Biology, University of Wrocław, Poland, under the supervision of Professor<a href="https://www.researchgate.net/profile/Boguslaw-Pawlowski-2">Bogusław Pawsłowski</a>.
+I conducted this project as part of my pursuit of a master's degree at the Department of Human Biology, University of Wrocław, Poland, under the supervision of Professor <a href="https://www.researchgate.net/profile/Boguslaw-Pawlowski-2">Bogusław Pawsłowski</a>.
 
 The original master's thesis was composed in Polish.
 
