@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marmosets
-description: a project with a background image
+description: Perceptions of marmosets with depigmented sclerae
 img: assets/img/proj_marmo1.jpg
 importance: 03
 category: Main Projects
