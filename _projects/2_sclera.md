@@ -11,9 +11,12 @@ We do not study eyes in marmosets only! Here is a study conducted with Danel, D.
 
 The link between human ocular morphology and attractiveness, especially in the context of its potential adaptive function, is an underexplored area of research. 
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_sclera.jpg" title="Human eye" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            {% include figure.html path="assets/img/proj_sclera.jpg" title="Human eye" %}
+        </div>
     </div>
 </div>
 <div class="caption">
