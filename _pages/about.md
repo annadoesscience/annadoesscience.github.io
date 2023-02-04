@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Evolutionary psychologist, Fulbrighter, PhD candidate. Born and raised in Toruń, Poland. Loves forests and winter. Retired computer gamer.
+subtitle: Evolutionary psychologist, Fulbrighter, PhD candidate. Born and raised in <a href="https://www.openstreetmap.org/#map=12/53.0192/18.5981">Toruń</a>, Poland. Loves forests and winter. Retired computer gamer.
 
 profile:
   align: right
