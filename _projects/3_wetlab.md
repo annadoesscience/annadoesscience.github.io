@@ -2,7 +2,7 @@
 layout: page
 title: Methanol extraction
 description: Testosterone in white-faced capuchins
-img: assets/img/12.jpg
+img: assets/img/proj_wetlab3.jpg
 importance: 34
 category: Old Projects
 ---
