@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Evolutionary psychologist, Fulbrighter, PhD candidate. Born and raised in Toruń, Poland. Loves forests and winter. Retired computer gamer.
 
 profile:
   align: right
@@ -17,8 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently working as a research assistant at the <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń, Poland. Additionally, I am a Fulbright Graduate Student Award recipient and a Ph.D. candidate at the Department of Psychology, Oakland University, Michigan. I work under the supervision of Professor <a href="https://www.toddkshackelford.com/">Todd K. Shackelford</a>. My focus lies within the <a href="https://www.cep.ucsb.edu/primer.html">evolutionary psychology</a> framework. I am most interested in an evolutionary perspective on the radicalization of sociopolitical views. Every day I grow more excited about how little is known, and how much room for improvement remains in the field. That provides me with growing motivation for further research into the subject.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When not in the lab, I enjoy hiking through the wilderness, trying out new musical instruments, not losing chess matches, and playing fantasy computer games. I also love mossy rocks, snowy winters, and fighting those arguing that correlation implies causation. Due to a set of unfortunate events, I also <a href="https://annadoesscience.github.io/projects/4_analog/"><i>cannot into space</i></a> (though I am really trying to).
