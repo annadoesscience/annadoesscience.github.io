@@ -7,7 +7,7 @@ importance: 31
 category: Old Projects
 ---
 
-I conducted this project as part of my pursuit of a master's degree at the Institute of Psychology, Kazimierz Wielki University, Bydgoszcz, Poland, under the supervision of the late <a href="https://www.researchgate.net/profile/Pawel-Izdebski">Paweł Izdebski</a>, an excellent scholar and supervisor who introduced me to the world of evolutionary psychology.
+I conducted this project as part of my pursuit of a master's degree at the Institute of Psychology, Kazimierz Wielki University, Bydgoszcz, Poland, under the supervision of the late Professor <a href="https://www.researchgate.net/profile/Pawel-Izdebski">Paweł Izdebski</a>, an excellent scholar and supervisor who introduced me to the world of evolutionary psychology.
 
 The original master's thesis was composed in Polish.
 
@@ -26,6 +26,7 @@ When selecting a computer game to play, players are guided by different preferen
 What I accidentally found, is that a qualitative analysis based on participants' declared biological sex showed some interesting results.
 
 For the games players <u>enjoyed</u>:
+
 Both men and women valued cooperation in games, but men preferred some competition too. Women enjoyed social elements like roleplay and customization more. Men preferred fast and challenging gameplay, while women preferred slow-paced, strategic, and relaxing games. Both enjoyed games that require dexterity and perception and value atmosphere and a good story.
 
 For the games players <u>disliked</u>:
