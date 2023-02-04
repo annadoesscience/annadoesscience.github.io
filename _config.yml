@@ -9,9 +9,9 @@ last_name: Szala
 email: szala@oakland.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Anna Szala's personal website. Publications, projects, cool stuff. ✨
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#footer_text: >
+#  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: anna, szala, evolutionary psychology, science  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -72,7 +72,8 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Best to contact me using <b>szala「at」oakland.edu</b>.
+  Best to contact me using <b>szala「at」oakland.edu</b>.</ br>Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
