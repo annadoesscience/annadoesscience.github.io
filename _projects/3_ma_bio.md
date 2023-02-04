@@ -13,9 +13,12 @@ The original master's thesis was composed in Polish.
 
 The study aimed to find whether significant relationships can be found between men's biological quality and attractiveness, and their conservative or liberal attitudes. In order to test the hypothesis, research was held on Polish male student volunteers (N = 57; 18–31 years old; M = 21.0, SD = 2.78). Anthropometric measurements: width of shoulders, hips, knees, wrists, elbows, and ankles were obtained. The participants filled out a set of surveys. Facial photos were taken. This data allowed me to calculate the shoulder-to-hip ratio (SHR) and the level of fluctuating asymmetry (FA), measure sociosexual attitudes, and obtain women's assessments of the attractiveness of male participants. 
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_ma_bio.jpg" title="Research station" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            {% include figure.html path="assets/img/proj_ma_bio.jpg" title="Research station" %}
+        </div>
     </div>
 </div>
 <div class="caption">
