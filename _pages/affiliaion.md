@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /affiliations/
+title: affiliations
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
