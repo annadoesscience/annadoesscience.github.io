@@ -7,12 +7,14 @@ importance: 02
 category: Main Projects
 ---
 
-Co-authors: Szala, A., Placiński, M., Poniewierska, A. E., Schmeichel, A., Żywiczyński, P., & Wacewicz, S. from <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a> and our wonderful ✨student helpers✨. 
+<u>Co-authors</u>: Szala, A., Placiński, M., Poniewierska, A. E., Schmeichel, A., Żywiczyński, P., & Wacewicz, S. from <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a> and our wonderful ✨student helpers✨. 
 
 This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b>. 
+
 Pre-registration available <a href="https://doi.org/10.17605/OSF.IO/KJF4E">here</a>!
 
 How much language use is on social topics? In a pioneering study, Dunbar and colleagues (<a href="https://www.researchgate.net/profile/Robin-Dunbar/publication/227022782_Human_conversational_behavior/links/53dfc58d0cf2aede4b493d06/Human-conversational-behavior.pdf">1997</a>) estimated that “gossip” – understood loosely as “conversation about social and personal topics” – accounted for about two-thirds of time spent on a conversation. This result has been extremely consequential: in addition to its considerable popular impact, it was instrumental in motivating some of the most influential theories of the evolution of the human brain and cognition (the Social Brain theory) and the evolution of language (the “gossip” theory of language origins). However, it is not clear that the theoretical importance of this estimate actually corresponds to the strength of its evidential basis: the authors relied on a relatively small number of conversations (N = 45), collected exclusively in open public environments, between a sample of participants with a very limited demographic and geographic distribution. Secondly, their definition and operationalisation of “social topics” was opaque, as was its connection to the proposed adaptive functions of language.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
