@@ -11,9 +11,12 @@ A short and fun exploratory project! It is being conducted opportunistically whi
 
 The basic idea is that various demographic cohorts differ when it comes to how much they talk about pets. I am curious if the Spokes database (Pęzik, <a href="https://ep.liu.se/ecp/116/009/ecp15116009.pdf">2014</a>) would be enough to draw any meaningful conclusions about those conversations.
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_pets.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            {% include figure.html path="assets/img/proj_pets.jpg" title="example image" %}
+        </div>
     </div>
 </div>
 <div class="caption">
