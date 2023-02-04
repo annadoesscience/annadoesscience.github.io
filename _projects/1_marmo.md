@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marmosets
-description: Perceptions of marmosets with depigmented sclerae
+description: Perceptions of marmosets with depigmented sclerae – are they less scary?
 img: assets/img/proj_marmo1.jpg
 importance: 03
 category: Main Projects
