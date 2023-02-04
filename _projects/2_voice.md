@@ -9,9 +9,12 @@ category: Side Projects
 
 While collaborating with <a href="https://www.researchgate.net/profile/Katarzyna-Pisanski">Katarzyna Pisański</a>, we ran two projects investigating human vocal parameters.
 
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_voice.jpg" title="Spectrogram Praat" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            {% include figure.html path="assets/img/proj_voice.jpg" title="Spectrogram Praat" %}
+        </div>
     </div>
 </div>
 <div class="caption">
