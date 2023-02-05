@@ -6,7 +6,7 @@ description: My publications by categories in reversed chronological order.
 #years: [1956, 1950, 1935, 1905]
 nav: true
 ---
-<h2 class="category">Journal articles</h2>
+<h2 class="category" style="float:right; color:grey;">Journal articles</h2>
 
 Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (under review). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and Caucasian ocular morphology – brief communication. Under review for the <i>American Journal of Human Biology</i>.
 
@@ -22,7 +22,7 @@ Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2019). Discrimination based on gend
 
 Antfolk, J., Karlsson, L. C., Söderlund, J., & <b>Szala, A.</b> (2017). Willingness to Invest in Children: Psychological Kinship Estimates and Emotional Closeness. <i>Evolutionary Psychology, 15</i>(2), 1–10. https://doi.org/10.1177/1474704917705730
 
-<h2 class="category">Pre-registrations</h2>
+<h2 class="category" style="float:right; color:grey;">Pre-registrations</h2>
 
 <b>Szala, A.</b>, Placiński, M., Żywiczyński, P., Poniewierska, A. E., Schmeichel, A., & Wacewicz, S. (2023, January 25). How much language use is actually on social topics: Human conversational behavior revisited. https://doi.org/10.17605/OSF.IO/KJF4E
 
@@ -30,15 +30,15 @@ Perea-García, J. O., <b>Szala, A.</b>, Wacewicz, S., Matzinger, T., & Szczepań
 
 Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2022, April 20). Discrimination based on Gender and Ethnicity in English and Polish Housing Markets. https://doi.org/10.17605/OSF.IO/58GR6
 
-<h2 class="category">Book chapters</h2>
+<h2 class="category" style="float:right; color:grey;">Book chapters</h2>
 
 Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (Ed.). <i>War, Peace, and Human Nature: the Convergence of Evolutionary and Cultural Views</i>. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199858996.003.0023
 
-<h2 class="category">Conference proceedings</h2>
+<h2 class="category" style="float:right; color:grey;">Conference proceedings</h2>
 
 <b>Szala, A.</b>, Placiński, M., Poniewierska, A., Szczepańska, A., & Wacewicz, S. (2022). How much language use is actually on social topics? In Ravignani, A., Asano, R., Valente, D., Ferretti, F., Hartmann, S., Hayashi, M., Jadoul, Y., Martins, M., Oseki, Y., Rodrigues, E. D., Vasileva, O., & Wacewicz, S. (Eds.). <i>The Evolution of Language: Proceedings of the Joint Conference on Language Evolution (JCoLE)</i> (705–707). Joint Conference on Language Evolution (JCoLE). https://doi.org/10.17617/2.3398549
 
-<h2 class="category">Encyclopedia entries</h2>
+<h2 class="category" style="float:right; color:grey;">Encyclopedia entries</h2>
 
 <b>Szala, A.</b> & Shackelford, T. K. (2019). Inclusive fitness. In: J. Vonk & T. K. Shackelford (Eds.), <i>Encyclopedia of Animal Cognition and Behavior</i>. New York: Springer Nature. https://doi.org/10.1007/978-3-319-55065-7_1997-1
 
