@@ -45,7 +45,7 @@ Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (
 <h2 class="category" style="float:right; color:grey;">Encyclopedia entries</h2>
 <hr style="clear:both; color:grey;">
 
-<b>Szala, A.</b> & Shackelford, T. K. (2019). Inclusive fitness. In: J. Vonk & T. K. Shackelford (Eds.), <i>Encyclopedia of Animal Cognition and Behavior</i>. New York: Springer Nature. <a href="https://doi.org/10.1007/978-3-319-55065-7_1997-1">https://doi.org/10.1007/978-3-319-55065-7_1997-1</a>
+<b>Szala, A.</b> & Shackelford, T. K. (2019). Inclusive fitness. In: J. Vonk & T. K. Shackelford (Eds.), <i>Encyclopedia of Animal Cognition and Behavior</i>. New York: Springer Nature. <a href="https://doi.org/10.1007/978-3-319-55065-7_1997">https://doi.org/10.1007/978-3-319-55065-7_1997</a>
 
 <b>Szala, A.</b> & Shackelford, T. K. (2019). Origin of Species. In: J. Vonk & T. K. Shackelford (Eds.), <i>Encyclopedia of Animal Cognition and Behavior</i>. New York: Springer Nature. <a href="https://doi.org/10.1007/978-3-319-47829-6_539-1">https://doi.org/10.1007/978-3-319-47829-6_539-1</a>
 
