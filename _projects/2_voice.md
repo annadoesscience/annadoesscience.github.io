@@ -24,5 +24,3 @@ While collaborating with <a href="https://www.researchgate.net/profile/Katarzyna
 ✤ In the first project, we investigated Cuban voices in order to study relationships between individual and social factors that influence the perception of the human voice. 
 
 ✤ In the second project, we conducted a cross-cultural investigation of voice modulation in professional versus personal social contexts. In a cross-cultural sample of 300 men and women from six countries, we test whether vocalisers differentially modulate key vocal parameters as a function of the professional hierarchical status and sex of the listener. 
-
-Fun fact: the article about voice modulation in a professional context was accepted for publication at the <i>Philosophical Transactions B</i>. But! The COVID-19 pandemic hit and the survey data from the UK were locked up in a drawer in the closed university and it was inaccessible. Therefore, we are currently looking for a new, good home for the paper. 
