@@ -23,7 +23,7 @@ Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2019). Discrimination based on gend
 
 Antfolk, J., Karlsson, L. C., Söderlund, J., & <b>Szala, A.</b> (2017). Willingness to Invest in Children: Psychological Kinship Estimates and Emotional Closeness. <i>Evolutionary Psychology, 15</i>(2), 1–10. <a href="https://doi.org/10.1177/1474704917705730">https://doi.org/10.1177/1474704917705730</a>
 
-<h2 class="category" style="float:right; color:grey;">Pre-registrations</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Pre-registrations</h2>
 <hr style="clear:both; color:grey;">
 
 <b>Szala, A.</b>, Placiński, M., Żywiczyński, P., Poniewierska, A. E., Schmeichel, A., & Wacewicz, S. (2023, January 25). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://doi.org/10.17605/OSF.IO/KJF4E">https://doi.org/10.17605/OSF.IO/KJF4E</a>
@@ -32,17 +32,16 @@ Perea-García, J. O., <b>Szala, A.</b>, Wacewicz, S., Matzinger, T., & Szczepań
 
 Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2022, April 20). Discrimination based on Gender and Ethnicity in English and Polish Housing Markets. <a href="https://doi.org/10.17605/OSF.IO/58GR6">https://doi.org/10.17605/OSF.IO/58GR6</a>
 
-<h2 class="category" style="float:right; color:grey;">Book chapters</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Book chapters</h2>
 <hr style="clear:both; color:grey;">
 
 Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (Ed.). <i>War, Peace, and Human Nature: the Convergence of Evolutionary and Cultural Views</i>. Oxford University Press. <a href="https://doi.org/10.1093/acprof:oso/9780199858996.003.0023">https://doi.org/10.1093/acprof:oso/9780199858996.003.0023</a>
-
-<h2 class="category" style="float:right; color:grey;">Conference proceedings</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
 <hr style="clear:both; color:grey;">
 
 <b>Szala, A.</b>, Placiński, M., Poniewierska, A., Szczepańska, A., & Wacewicz, S. (2022). How much language use is actually on social topics? In Ravignani, A., Asano, R., Valente, D., Ferretti, F., Hartmann, S., Hayashi, M., Jadoul, Y., Martins, M., Oseki, Y., Rodrigues, E. D., Vasileva, O., & Wacewicz, S. (Eds.). <i>The Evolution of Language: Proceedings of the Joint Conference on Language Evolution (JCoLE)</i> (705–707). Joint Conference on Language Evolution (JCoLE). <a href="https://pure.mpg.de/rest/items/item_3398549_9/component/file_3405708/content#page=733">https://doi.org/10.17617/2.3398549</a>
 
-<h2 class="category" style="float:right; color:grey;">Encyclopedia entries</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Encyclopedia entries</h2>
 <hr style="clear:both; color:grey;">
 
 <b>Szala, A.</b> & Shackelford, T. K. (2019). Inclusive fitness. In: J. Vonk & T. K. Shackelford (Eds.), <i>Encyclopedia of Animal Cognition and Behavior</i>. New York: Springer Nature. <a href="https://doi.org/10.1007/978-3-319-55065-7_1997">https://doi.org/10.1007/978-3-319-55065-7_1997</a>
