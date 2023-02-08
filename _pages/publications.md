@@ -6,7 +6,7 @@ description: My publications by categories in reversed chronological order.
 #years: [1956, 1950, 1935, 1905]
 nav: true
 ---
-<h2 class="category" style="float:right; color:grey;">Journal articles</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color);">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
 Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (under review). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and Caucasian ocular morphology – brief communication. Under review for the <i>American Journal of Human Biology</i>.
