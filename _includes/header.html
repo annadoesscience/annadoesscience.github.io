@@ -33,16 +33,14 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_name %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">news
-                  {%- if page.title == "blog" -%}
+              <!-- News -->
+              <li class="nav-item {% if page.title == 'news' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/' | relative_url }}">about
+                  {%- if page.title == "news" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "title" -%}
