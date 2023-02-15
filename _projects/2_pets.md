@@ -15,7 +15,7 @@ The basic idea is that various demographic cohorts differ when it comes to how m
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <div class="img-fluid rounded z-depth-1 align-self-center">
-            {% include figure.html path="assets/img/proj_pets.jpg" title="example image" %}
+            {% include figure.html path="assets/img/proj_pets.jpg" title="Felis catus" %}
         </div>
     </div>
 </div>
