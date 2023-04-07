@@ -9,7 +9,7 @@ nav: true
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
-Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (under review). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and Caucasian ocular morphology – brief communication. Under review for the <i>American Journal of Human Biology</i>.
+Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
 
 DeLecce, T., Pazhoohi, F., <b>Szala, A.</b>, & Shackelford, T. K. (2022). Extreme metal guitar skill: A case of intrasexual competition, intersexual selection, or byproduct? <i>Evolutionary Behavioral Sciences</i>. Advance online publication. <a href="https://doi.org/10.1037/ebs0000304">https://doi.org/10.1037/ebs0000304</a>
 
