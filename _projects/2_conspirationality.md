@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conspirationality
+title: Conspirational chatter
 description: The transfer of conspirational messages
 img: assets/img/proj_conspirationality.jpg
 importance: 25
