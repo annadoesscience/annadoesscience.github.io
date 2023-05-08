@@ -13,13 +13,13 @@ The human evolutionary history extends back hundreds of thousands of years. Soci
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_radical1.jpg" title="Storming the Capitol" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_radical1.jpg" title="Angry mob" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/proj_radical2.jpg" title="Struggling" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/proj_radical3.jpg" title="Social media" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/proj_radical3.jpg" title="Storming the Capitol" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
