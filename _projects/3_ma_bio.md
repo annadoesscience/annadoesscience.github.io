@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Biological quality and attractiveness
-description: Biological quality and attractiveness and the sociopolitical attitude in men
+description: The sociopolitical attitude in men
 img: assets/img/proj_ma_bio.jpg
 importance: 32
 category: Old Projects
