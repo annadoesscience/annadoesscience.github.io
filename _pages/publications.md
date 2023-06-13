@@ -13,6 +13,8 @@ Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P
 
 DeLecce, T., Pazhoohi, F., <b>Szala, A.</b>, & Shackelford, T. K. (2022). Extreme metal guitar skill: A case of intrasexual competition, intersexual selection, or byproduct? <i>Evolutionary Behavioral Sciences</i>. Advance online publication. <a href="https://doi.org/10.1037/ebs0000304">https://doi.org/10.1037/ebs0000304</a>
 
+Dorison, C., Lerner, J. S., Heller, B. H., Rothman, A., Kawachi, I. I., Wang, K., ...[incl. <b>Szala, A.</b>]... Coles, N. A. (2022). In COVID-19 health messaging, loss framing increases anxiety with little-to-no concomitant benefits: Experimental evidence from 84 countries. <i>Affective Science</i>. <a href="https://doi.org/10.31234/osf.io/sevkf">https://doi.org/10.31234/osf.io/sevkf</a>
+
 Psychological Science Accelerator Self-Determination Theory Collaboration [incl. <b>Szala, A.</b>] (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. <i>Proceedings of the National Academy of Sciences, 119</i>(22), e2111091119. <a href="https://doi.org/10.31234/osf.io/n3dyf">https://doi.org/10.31234/osf.io/n3dyf</a>
 
 Wang K., Goldenberg A., Dorison, C. A., Miller, J. K., Uusberg, A., Lerner, J. S., Gross, J. J., Agesin, B. B., Bernardo, M., Campos, O., Eudave, L., Grzech, K., Ozery, D. H., Jackson, E. A., Luis Garcia, E. O., Drexler, S. M., Jurković, A. P., Rana, K., Wilson, J. P., …[<b>Szala, A.</b>]… Moshontz, H. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. <i>Nature Human Behavior, 5</i>(8), 1089–1110. <a href="https://doi.org/10.1038/s41562-021-01173-x">https://doi.org/10.1038/s41562-021-01173-x</a>
