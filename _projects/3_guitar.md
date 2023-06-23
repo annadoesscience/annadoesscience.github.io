@@ -21,12 +21,12 @@ There has been considerable discourse surrounding the fundamental rationale behi
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <div class="img-fluid rounded z-depth-1 align-self-center">
-            {% include figure.html path="assets/img/proj_guitar.jpg" title="Don't look at the guitarist's left hand." %}
+            {% include figure.html path="assets/img/proj_guitar.jpg" title="Don't look too closely at the guitarist's left hand, ok?" %}
         </div>
     </div>
 </div>
-<div class="Male extreme metal guitar player.">
-
+<div class="caption">
+    Male extreme metal guitar player.
 </div>
 
     One plausible explanation is that male individuals engage in this genre as a means of seeking social status, employing their technical prowess and speed to intimidate their male peers, thereby bolstering their societal standing. To elucidate the motivations underlying the acquisition of technical guitar skills, a sample of 44 heterosexual male metal guitarists were recruited and subjected to surveys encompassing their practice habits (utilizing a survey specifically devised for this study), sociosexual behavior, and intrasexual competitiveness. Analysis of the survey outcomes revealed a positive correlation between the time spent practicing chords and the inclination towards engaging in casual sexual encounters with women. Moreover, perceptions of one's own playing speed positively predicted feelings of intrasexual competitiveness—an aspiration to impress and outperform other men. The ensuing discussion in our article deliberates upon how these findings, in conjunction with the characteristics of the extreme metal genre, may relate to the three competing hypotheses elucidating the function of cultural displays.
