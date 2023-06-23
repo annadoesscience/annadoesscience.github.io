@@ -9,7 +9,7 @@ category: Old Projects
 
 The pet project of the wonderful <a href="https://www.researchgate.net/profile/Tara-Delecce">Tara DeLecce</a> and <a href="https://faridpazhoohi.com/">Farid Pazhoohi</a>, which I have been allowed to help with. 
 
-Article: <a href="https://psycnet.apa.org/record/2022-76738-001">Here!</a>
+Article: <a href="https://psycnet.apa.org/record/2022-76738-001">Here!</a><br>
 Vocal summary (at <a href="https://www.eva.mpg.de/ecology/events/ehbea-2022/">EHBEA 2022</a>): <a href="https://osf.io/9cz7n">Here!</a>
 
 The study was mentioned in a couple of places, for example <a href="https://twitter.com/qikipedia/status/1576542514693013504">QI</a>, <a href="https://www.loudersound.com/news/new-research-indicates-that-straight-men-who-play-guitar-in-extreme-metal-bands-do-it-to-impress-other-straight-men">Metal Hammer</a>, <a href="https://www.guitarworld.com/news/straight-men-play-extreme-metal-to-impress-other-men">Guitar World</a>, <a href="https://www.musicradar.com/news/extreme-metal-guitar-heterosexual-men-study">Music Radar</a>, and <a href="https://loudwire.com/study-straight-male-extreme-metal-guitarists-impress-other-straight-men">Loud Wire</a>.
