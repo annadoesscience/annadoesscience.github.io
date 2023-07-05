@@ -41,6 +41,9 @@ Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
 <hr style="clear:both; color:grey;">
 
+<b>Szala, A.</b>, DeLecce, T., & Pazhoohi, F. (2022). The case of metal music: An application of sexual selection or a cognitive byproduct? <i>Human Ethology, 37</i>(Suppl.), HES73. <a href="https://doi.org/10.22330/he/37/suppl">https://doi.org/10.22330/he/37/suppl</a>
+
+
 <b>Szala, A.</b>, Placiński, M., Poniewierska, A., Szczepańska, A., & Wacewicz, S. (2022). How much language use is actually on social topics? In Ravignani, A., Asano, R., Valente, D., Ferretti, F., Hartmann, S., Hayashi, M., Jadoul, Y., Martins, M., Oseki, Y., Rodrigues, E. D., Vasileva, O., & Wacewicz, S. (Eds.). <i>The Evolution of Language: Proceedings of the Joint Conference on Language Evolution (JCoLE)</i> (705–707). Joint Conference on Language Evolution (JCoLE). <a href="https://pure.mpg.de/rest/items/item_3398549_9/component/file_3405708/content#page=733">https://doi.org/10.17617/2.3398549</a>
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Encyclopedia entries</h2>
