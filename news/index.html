@@ -8,9 +8,55 @@ nav: false
 
 <header class="post-header">
 <h1 class="post-title">news</h1>
-<p class="post-description">My Twitter feed. This is where I announce all the updates. I will likely migrate to Mastodon soon.</p>
+<p class="post-description">My Mastodon feed. Get the RSS <a href="https://fediscience.org/@anna.rss">here</a>. </p>
 </header>
 
 <hr style="clear:both; color:grey;">
 
-<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/AnnaDoesScience?ref_src=twsrc%5Etfw">Anna's Tweets would be embedded here but it looks like your addons are blocking them. Please, click this link to view Anna's Tweets directly on Twitter.</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<!DOCTYPE html>
+<html>
+<head>
+#  <title>RSS Feed</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <div id="rss-feed"></div>
+
+  <script>
+    $(document).ready(function() {
+      var rssUrl = "https://fediscience.org/@anna.rss";
+      var numOfPosts = 10;
+
+      $.ajax(rssUrl, {
+        accepts: {
+          xml: "application/rss+xml"
+        },
+        dataType: "xml",
+        success: function(data) {
+          var feedItems = [];
+          $(data)
+            .find("item")
+            .slice(0, numOfPosts)
+            .each(function() {
+              var item = $(this);
+              var title = item.find("title").text();
+              var link = item.find("link").text();
+              var pubDate = new Date(item.find("pubDate").text());
+              var description = item.find("description").text();
+
+              var feedItem = "<div>" +
+                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
+                "<p>" + description + "</p>" +
+                "<p>Published: " + pubDate.toLocaleString() + "</p>" +
+                "</div>";
+
+              feedItems.push(feedItem);
+            });
+
+          $("#rss-feed").html(feedItems.join(""));
+        }
+      });
+    });
+  </script>
+</body>
+</html>
