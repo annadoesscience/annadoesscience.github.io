@@ -48,14 +48,21 @@ nav: false
               var link = item.find("link").text();
               var pubDate = new Date(item.find("pubDate").text());
               var description = item.find("description").text();
+              var mediaUrl = item.find("enclosure").attr("url"); // Extract media URL
 
               // Format the date and time in European format with dots
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
               var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
 
               var feedItem = "<div>" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<p>" + description + "</p>" +
+                "<h3><a href='" + link + "'>" + title + "</a></h3>";
+
+              // Add media if available
+              if (mediaUrl) {
+                feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
+              }
+
+              feedItem += "<p>" + description + "</p>" +
                 "<p class='published-date'>Published: " + formattedDate + "</p>" +
                 "</div>";
 
