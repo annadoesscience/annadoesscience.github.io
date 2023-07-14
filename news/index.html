@@ -48,7 +48,7 @@ nav: false
               var link = item.find("link").text();
               var pubDate = new Date(item.find("pubDate").text());
               var description = item.find("description").text();
-              var mediaUrl = item.find("enclosure").attr("url"); // Extract media URL
+              var mediaUrl = item.find("media\\:content").attr("url"); // Extract media URL
 
               // Format the date and time in European format with dots
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
