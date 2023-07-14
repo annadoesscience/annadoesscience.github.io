@@ -22,6 +22,11 @@ nav: false
     .published-date {
       color: gray;
     }
+    .post-separator {
+      border-top: 1px solid #ccc;
+      margin-top: 20px;
+      padding-top: 20px;
+    }
   </style>
 </head>
 <body>
@@ -42,7 +47,7 @@ nav: false
           $(data)
             .find("item")
             .slice(0, numOfPosts)
-            .each(function() {
+            .each(function(index) {
               var item = $(this);
               var title = item.find("title").text();
               var link = item.find("link").text();
@@ -54,7 +59,7 @@ nav: false
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
               var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
 
-              var feedItem = "<div>" +
+              var feedItem = "<div class='post-separator'>" +
                 "<h3><a href='" + link + "'>" + title + "</a></h3>";
 
               // Add media if available
