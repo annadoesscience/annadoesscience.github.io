@@ -59,7 +59,14 @@ nav: false
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
               var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
 
-              var feedItem = "<div class='post-separator'>" +
+              var feedItem = "<div";
+
+              // Conditionally apply the post-separator class
+              if (index > 0) {
+                feedItem += " class='post-separator'";
+              }
+
+              feedItem += ">" +
                 "<h3><a href='" + link + "'>" + title + "</a></h3>";
 
               // Add media if available
