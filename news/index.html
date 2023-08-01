@@ -27,6 +27,10 @@ nav: false
       margin-top: 20px;
       padding-top: 20px;
     }
+    .thumbnail {
+      max-width: 200px;
+      cursor: pointer;
+    }
   </style>
 </head>
 <body>
@@ -71,7 +75,9 @@ nav: false
 
               // Add media if available
               if (mediaUrl) {
-                feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
+                feedItem += "<a href='" + mediaUrl + "' target='_blank'>"; // Link to full-size image
+                feedItem += "<img src='" + mediaUrl + "' alt='Post Image' class='thumbnail'>";
+                feedItem += "</a>";
               }
 
               feedItem += "<p>" + description + "</p>" +
