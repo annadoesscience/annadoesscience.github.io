@@ -27,9 +27,15 @@ nav: false
       margin-top: 20px;
       padding-top: 20px;
     }
-    .thumbnail {
-      max-width: 200px;
-      cursor: pointer;
+    .post-content {
+      max-width: 600px; /* Adjust this value based on your column width */
+      margin: 0 auto; /* To center the content */
+    }
+    .post-content img {
+      max-width: 100%; /* Ensure images are never wider than the column */
+      height: auto; /* Preserve the aspect ratio */
+      display: block; /* Remove any extra spacing below the images */
+      margin: 10px 0; /* Add some vertical spacing between images and text */
     }
   </style>
 </head>
@@ -71,18 +77,18 @@ nav: false
               }
 
               feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>";
+                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
+                "<div class='post-content'>"; // Added post-content div for text and images
 
               // Add media if available
               if (mediaUrl) {
-                feedItem += "<a href='" + mediaUrl + "' target='_blank'>"; // Link to full-size image
-                feedItem += "<img src='" + mediaUrl + "' alt='Post Image' class='thumbnail'>";
-                feedItem += "</a>";
+                feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
               }
 
               feedItem += "<p>" + description + "</p>" +
                 "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>";
+                "</div>" + // Close post-content div
+                "</div>"; // Close post-separator div
 
               feedItems.push(feedItem);
             });
@@ -94,3 +100,4 @@ nav: false
   </script>
 </body>
 </html>
+
