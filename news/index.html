@@ -63,7 +63,12 @@ nav: false
               var link = item.find("link").text();
               var pubDate = new Date(item.find("pubDate").text());
               var description = item.find("description").text();
-              var mediaUrl = item.find("media\\:content").attr("url"); // Extract media URL
+              var mediaUrls = []; // Array to store multiple media URLs
+
+              item.find("media\\:content").each(function() {
+                var mediaUrl = $(this).attr("url");
+                mediaUrls.push(mediaUrl); // Add media URLs to the array
+              });
 
               // Format the date and time in European format with dots
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
@@ -81,8 +86,10 @@ nav: false
                 "<div class='post-content'>"; // Added post-content div for text and images
 
               // Add media if available
-              if (mediaUrl) {
-                feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
+              if (mediaUrls.length > 0) {
+                mediaUrls.forEach(function(mediaUrl) {
+                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
+                });
               }
 
               feedItem += "<p>" + description + "</p>" +
@@ -100,4 +107,3 @@ nav: false
   </script>
 </body>
 </html>
-
