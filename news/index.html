@@ -62,7 +62,7 @@ nav: false
               var title = item.find("title").text();
               var link = item.find("link").text();
               var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
+              var description = item.find("description").html(); // Use .html() to decode HTML entities
               var mediaUrls = []; // Array to store multiple media URLs
 
               item.find("media\\:content").each(function() {
