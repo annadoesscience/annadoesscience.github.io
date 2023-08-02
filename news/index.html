@@ -62,18 +62,17 @@ nav: false
               var title = item.find("title").text();
               var link = item.find("link").text();
               var pubDate = new Date(item.find("pubDate").text());
-              var descriptionText = item.find("description").text();
-              var descriptionHTML = item.find("description").html(); // We'll use this to extract the links
+              var description = item.find("description").text();
+              var mediaUrls = []; // Array to store multiple media URLs
+
+              item.find("media\\:content").each(function() {
+                var mediaUrl = $(this).attr("url");
+                mediaUrls.push(mediaUrl); // Add media URLs to the array
+              });
 
               // Format the date and time in European format with dots
               var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
               var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
-
-              // Extract and replace the links in the description
-              var linkPattern = /<a[^>]+href=["']([^"']+)["'][^>]*>([^<]*)<\/a>/g;
-              var description = descriptionText.replace(linkPattern, function(match, url, linkText) {
-                return '<a href="' + url + '">' + linkText + '</a>';
-              });
 
               var feedItem = "<div";
 
