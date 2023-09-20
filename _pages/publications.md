@@ -9,7 +9,7 @@ nav: true
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
-Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. Journal of Language Evolution, lzad010. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
+Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. <i>Journal of Language Evolution, lzad010</i>. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
 
 Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
 
