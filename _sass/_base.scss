@@ -581,7 +581,8 @@ html.transition *:after {
       padding: 8px;
     }
   }
-  .post-content span.invisible{
-    visibility: visible !important;
-  }
+}
+
+.post-content span.invisible{
+  visibility: visible !important;
 }
