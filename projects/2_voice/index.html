@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | Voice modulation</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="A cross-cultural investigation of voice modulation" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/projects/2_voice/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,47 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- page.html -->
+        <div class="post">
 
-<hr style="clear:both; color:grey;">
+          <header class="post-header">
+            <h1 class="post-title">Voice modulation</h1>
+            <p class="post-description">A cross-cultural investigation of voice modulation</p>
+          </header>
 
+          <article>
+            <p>While collaborating with <a href="https://www.researchgate.net/profile/Katarzyna-Pisanski" target="_blank" rel="noopener noreferrer">Katarzyna Pisański</a>, we ran two projects investigating human vocal parameters.</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            <figure>
 
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_voice-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_voice-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_voice-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj_voice.jpg" title="Spectrogram Praat">
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+  </picture>
 
+</figure>
 
-  <div id="rss-feed"></div>
-
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
-
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
-
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
-
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
-
-              var feedItem = "<div";
-
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
-
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
+        </div>
+    </div>
 </div>
-</body></body>
-</html>
+<div class="caption">
+    A screenshoot of the <a href="https://www.fon.hum.uva.nl/praat/" target="_blank" rel="noopener noreferrer">Praat</a> software for analysing Phonetics.
+</div>
+
+<p>✤ In the first project, we investigated Cuban voices in order to study relationships between individual and social factors that influence the perception of the human voice.</p>
+
+<p>✤ In the second project, we conducted a cross-cultural investigation of voice modulation in professional versus personal social contexts. In a cross-cultural sample of around 250 men and women from five countries, we test whether vocalisers differentially modulate key vocal parameters as a function of the professional hierarchical status and sex of the listener.</p>
+
+          </article>
+
+        </div>
 
     </div>
 

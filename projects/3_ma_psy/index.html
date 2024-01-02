@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | Computer games</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="Choice of computer games content from the evolutionary psychology perspective" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/projects/3_ma_psy/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,58 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- page.html -->
+        <div class="post">
 
-<hr style="clear:both; color:grey;">
+          <header class="post-header">
+            <h1 class="post-title">Computer games</h1>
+            <p class="post-description">Choice of computer games content from the evolutionary psychology perspective</p>
+          </header>
 
+          <article>
+            <p>I conducted this project as part of my pursuit of a master’s degree at the Institute of Psychology, Kazimierz Wielki University, Bydgoszcz, Poland, under the supervision of the late Professor <a href="https://www.researchgate.net/profile/Pawel-Izdebski" target="_blank" rel="noopener noreferrer">Paweł Izdebski</a>, an excellent scholar and supervisor who introduced me to the world of evolutionary psychology.</p>
 
+<p>The original master’s thesis was composed in Polish.</p>
 
+<p>When selecting a computer game to play, players are guided by different preferences. I was curious to see if gender affects the selection of computer games. The content of computer games has been analyzed for the occurrence of evolutionary-relevant stimuli. 179 participants (98 men, 81 women) filled out a modified Inwentarz Oceny Płci Psychologicznej (Gender Inventory) and a questionnaire concerning the selection of computer games. This study did <u>not</u> find any gender differences in the selection of evolutionary-relevant gaming content. The only significant and intriguing results were that men showed a preference (p&lt;0.001) for games containing elements of cooperation, collaboration, brutality, and strategy. In contrast, women showed a preference (p&lt;0.001) for relaxing games.</p>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            <figure>
 
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_ma_psy-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_ma_psy-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_ma_psy-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj_ma_psy.jpg" title="Gamer">
 
-  <div id="rss-feed"></div>
+  </picture>
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+</figure>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
-
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
-
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
-
-              var feedItem = "<div";
-
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
-
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
+        </div>
+    </div>
 </div>
-</body></body>
-</html>
+
+<p>⚠️ But! ⚠️</p>
+
+<p>What I accidentally found, is that a qualitative analysis based on participants’ declared biological sex showed some interesting results.</p>
+
+<p>For the games players <u>enjoyed</u>:</p>
+
+<p>Both men and women valued cooperation in games, but men preferred some competition too. Women enjoyed social elements like roleplay and customization more. Men preferred fast and challenging gameplay, while women preferred slow-paced, strategic, and relaxing games. Both enjoyed games that require dexterity and perception and value atmosphere and a good story.</p>
+
+<p>For the games players <u>disliked</u>:</p>
+
+<p>Both men and women disliked games with inadequate roleplay, unlikable NPCs, excess violence (disproportionately affecting women), and too much randomness, difficulty, or unintuitive controls. Women also disliked frightening games, and both genders dislike boredom, a poorly-suited plot or humour, and microtransactions. Both men and women find a lack of direction and purpose in games that are not engaging.</p>
+
+<p>It is not very surprising but still good do know. 😁</p>
+
+          </article>
+
+        </div>
 
     </div>
 

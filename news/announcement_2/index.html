@@ -9,9 +9,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | A long announcement with details</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="Anna Szala's personal website. Publications, projects, sciency stuff. ✨
+" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +33,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/news/announcement_2/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +50,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +73,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +104,50 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- _layouts/post.html -->
 
-<hr style="clear:both; color:grey;">
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">A long announcement with details</h1>
+    <p class="post-meta">November 7, 2015</p>
+    <p class="post-tags">
+      <a href="/blog/2015"> <i class="fas fa-calendar fa-sm"></i> 2015 </a>
 
+    </p>
+  </header>
 
+  <article class="post-content">
+    <p>Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.</p>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+<hr>
 
+<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="_blank" rel="noopener noreferrer">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="_blank" rel="noopener noreferrer">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
 
-  <div id="rss-feed"></div>
+<h4 id="hipster-list">Hipster list</h4>
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+<p>Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90’s yr typewriter selfies letterpress cardigan vegan.</p>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
+<hr>
 
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
+<p>Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.</p>
 
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
+<blockquote>
+  <p>We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+—Anais Nin</p>
+</blockquote>
 
-              var feedItem = "<div";
+<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>
 
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
+  </article>
 
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
 </div>
-</body></body>
-</html>
 
     </div>
 

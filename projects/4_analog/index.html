@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | Analog Missions</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="Trying to put humans into Space 🚀🧑‍🚀🌌🪐💫🛰️✨" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/projects/4_analog/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,78 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- page.html -->
+        <div class="post">
 
-<hr style="clear:both; color:grey;">
+          <header class="post-header">
+            <h1 class="post-title">Analog Missions</h1>
+            <p class="post-description">Trying to put humans into Space 🚀🧑‍🚀🌌🪐💫🛰️✨</p>
+          </header>
 
+          <article>
+            <p>Human analog missions are field tests in environments with physical similarities to extreme space conditions. Remote field tests are carried out in locations selected for their physical similarities to the challenging space environments of a planned mission. It is not possible for any analog to completely replicate all aspects of a human space mission on Earth, so a variety of analog activities are needed to examine different relevant concepts.</p>
 
+<p>A psychologist plays a crucial role in the research of analog missions by investigating the psychological impact of extended stays in simulated extreme environments, as those participating in analog missions may face psychological challenges such as issues caused by isolation, space confinement, boredom, team dynamics, stress, and sleep disturbance. These issues impact their mental and physical well-being and are therefore researched by psychologists. This helps to better understand and prepare for the potential psychological challenges that may arise during long-duration space missions.</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_space1-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_space1-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_space1-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_space1.jpg" title="Analog astronaut">
 
+  </picture>
 
-  <div id="rss-feed"></div>
+</figure>
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_space2-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_space2-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_space2-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_space2.jpg" title="Gazing into the distance">
 
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
+  </picture>
 
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
+</figure>
 
-              var feedItem = "<div";
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_space3-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_space3-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_space3-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_space3.jpg" title="Reaching for the stars">
 
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
+  </picture>
 
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
+</figure>
 
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
+    </div>
 </div>
-</body></body>
-</html>
+
+<p>Evolutionary psychologists can greatly contribute to the research of analog missions! Their insights can help inform the design of the missions, as well as contribute to our understanding of how to better prepare astronauts for the psychological challenges associated with long-duration space missions. They investigate the evolutionary origins of human behaviour, cognition, and emotions, so their input focuses on understanding the behavioural adaptations that have evolved to help humans cope with the various challenges associated with living in extreme environments. For example, evolutionary psychologists might explore how our ancestral history of living in small, tight-knit groups might help us better cope with confinement in a simulated extreme environment. They might also study how our ability to form strong social bonds and establish social hierarchies may help reduce conflict and improve teamwork in analog missions.</p>
+
+<p>And now, the sad part.</p>
+
+<p>Despite my passion for space and analog missions, I was unable to join any collaborations due to a handful of factors. I tried reaching out to various organizations and individuals, but my citizenship posed a significant obstacle, as opportunities for studying analog missions in the United States were not available to Europeans. Also, my field of education is not directly linked to space research, however, I believe that my multidisciplinary background and experience would be valuable contributions to any such collaboration. I am committed to making the most of any opportunities that may arise, as I believe that this field has the potential to make a significant impact on our understanding of the universe.</p>
+
+<p>So anyway. <b>If you know anyone looking for an evolutionary psychologist with rich background and experience in scientific methodology of behavioural research, and vast experience in utilizing the evolutionary theoretical framework, make sure to pass them my contact details!</b></p>
+
+          </article>
+
+        </div>
 
     </div>
 

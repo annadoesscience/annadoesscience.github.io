@@ -9,9 +9,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="Anna Szala's personal website. Publications, projects, sciency stuff. ✨
+" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +33,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/">
     
     <!-- Dark Mode -->
     
@@ -49,14 +50,13 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
         <div class="container">
-          <a class="navbar-brand title font-weight-lighter" href="https://annadoesscience.github.io/"><span class="font-weight-bold">Anna</span>   Szala</a>
+          
           <!-- Navbar Toggle -->
           <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
@@ -69,12 +69,12 @@
             <ul class="navbar-nav ml-auto flex-nowrap">
 
               <!-- About -->
-              <li class="nav-item ">
-                <a class="nav-link" href="/">about</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/">about<span class="sr-only">(current)</span></a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +104,67 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- about.html -->
+      <div class="post">
+        <header class="post-header">
+          <h1 class="post-title">
+           <span class="font-weight-bold">Anna</span>  Szala
+          </h1>
+          <p class="desc">Evolutionary psychologist, Fulbrighter, PhD candidate. Born and raised in <a href="https://www.openstreetmap.org/#map=12/53.0192/18.5981" target="_blank" rel="noopener noreferrer">Toruń</a>, Poland. Loves forests and winter. Retired computer gamer.</p>
+        </header>
 
-<hr style="clear:both; color:grey;">
+        <article>
+          <div class="profile float-right">
+<figure>
 
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/prof_pic-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/prof_pic-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/prof_pic-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid z-dept-1 rounded" src="/assets/img/prof_pic.jpg" alt="prof_pic.jpg">
 
+  </picture>
 
+</figure>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+          </div>
 
+          <div class="clearfix">
+            <p>I am currently working as a research assistant at the <a href="https://cles.umk.pl/" target="_blank" rel="noopener noreferrer">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń, Poland. Additionally, I am a Fulbright Graduate Student Award recipient and a Ph.D. candidate at the Department of Psychology, Oakland University, Michigan. I work under the supervision of Professor <a href="https://www.toddkshackelford.com/" target="_blank" rel="noopener noreferrer">Todd K. Shackelford</a>. My focus lies within the <a href="https://www.cep.ucsb.edu/primer.html" target="_blank" rel="noopener noreferrer">evolutionary psychology</a> framework. I am most interested in an evolutionary perspective on the <a href="https://annadoesscience.github.io/projects/1_radical/">radicalization of sociopolitical views</a> but I am also involved in many other <a href="https://annadoesscience.github.io/projects/">cool projects</a>! Every day I grow more excited about how little is known, and how much room for improvement remains in the field. That provides me with growing motivation for further research into the subject.</p>
 
-  <div id="rss-feed"></div>
+<p>When not in the lab, I enjoy hiking through the wilderness, trying out new musical instruments, and playing tabletop role-playing games (currently engaged in two long-term campaigns: Dungeons &amp; Dragons led by <a href="https://www.researchgate.net/profile/Daniel-Sokolowski-2" target="_blank" rel="noopener noreferrer">Daniel Sokołowski</a> and Vampire: The Masquerade led by <a href="https://www.facebook.com/profile.php?id=100008253459242" target="_blank" rel="noopener noreferrer">Neoś</a>). I also love mossy rocks, snowy winters, and fighting those arguing that correlation implies causation. Due to a set of unfortunate events, I also <a href="https://annadoesscience.github.io/projects/4_analog/"><i>cannot into space</i></a> (though I am really trying to).<br><br></p>
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+<p>Oh, and I recently started a <a rel="me noopener noreferrer" href="https://fediscience.org/@anna" target="_blank">Mastodon</a> account. 🐘 I am curious to give it a try!</p>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
+          </div>
 
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
+          
+          
+          <!-- Social -->
+          <div class="social">
+            <div class="contact-icons">
+            <a href="mailto:%73%7A%61%6C%61@%6F%61%6B%6C%61%6E%64.%65%64%75" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="https://orcid.org/0000-0002-9693-9834" title="ORCID" target="_blank" rel="noopener noreferrer"><i class="ai ai-orcid"></i></a>
+            <a href="https://scholar.google.com/citations?user=Uw1SlKEAAAAJ" title="Google Scholar" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+            <a href="https://www.researchgate.net/profile/Anna-Szala/" title="ResearchGate" target="_blank" rel="noopener noreferrer"><i class="ai ai-researchgate"></i></a>
+            <a href="https://osf.io/ezhqp/" title="Open Science Framework" target="_blank" rel="noopener noreferrer"><i class="ai ai-osf"></i></a>
+            <a href="https://twitter.com/AnnaDoesScience" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+            
+            <a href="https://fediscience.org/@anna" title="Mastodon" target="_blank" rel="noopener noreferrer"><i class="fab fa-mastodon"></i></a>
+            
 
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
+            </div>
 
-              var feedItem = "<div";
+            <div class="contact-note">
+              <br><br>Best to contact me using <b>szala「at」oakland.edu</b>.<br> © Copyright <script>document.write(new Date().getFullYear());</script> Anna Szala. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
 
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
+            </div>
+            
+          </div>
+        </article>
 
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
 </div>
-</body></body>
-</html>
 
     </div>
 

@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | a post with twitter</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="an example of a blog post with twitter" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/blog/2020/twitter/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,55 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- _layouts/post.html -->
 
-<hr style="clear:both; color:grey;">
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">a post with twitter</h1>
+    <p class="post-meta">September 28, 2020</p>
+    <p class="post-tags">
+      <a href="/blog/2020"> <i class="fas fa-calendar fa-sm"></i> 2020 </a>
+        ·  
+        <a href="/blog/tag/formatting">
+          <i class="fas fa-hashtag fa-sm"></i> formatting</a>  
+          
+        ·  
+        <a href="/blog/category/sample-posts">
+          <i class="fas fa-tag fa-sm"></i> sample-posts</a>  
+          <a href="/blog/category/external-services">
+          <i class="fas fa-tag fa-sm"></i> external-services</a>  
+          
 
+    </p>
+  </header>
 
+  <article class="post-content">
+    <p>A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc.</p>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+<h1 id="tweet">Tweet</h1>
+<p>An example of displaying a tweet:</p>
+<div class="jekyll-twitter-plugin">
+<blockquote class="twitter-tweet">
+<p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4" target="_blank" rel="noopener noreferrer">http://t.co/m4EIQPM9h4</a></p>— RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">October 5, 2014</a>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-  <div id="rss-feed"></div>
-
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
-
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
-
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
-
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
-
-              var feedItem = "<div";
-
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
-
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
 </div>
-</body></body>
-</html>
+
+<h1 id="timeline">Timeline</h1>
+<p>An example of pulling from a timeline:</p>
+<div class="jekyll-twitter-plugin">
+<a class="twitter-timeline" data-width="500" data-tweet-limit="3" href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">Tweets by jekyllrb</a>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<h1 id="additional-details">Additional Details</h1>
+<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin" target="_blank" rel="noopener noreferrer">jekyll-twitter-plugin</a></p>
+
+  </article>
+
+</div>
 
     </div>
 

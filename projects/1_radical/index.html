@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | Radicalisation</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="An evolutionary perspective on the radicalization of sociopolitical views" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/projects/1_radical/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,72 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- page.html -->
+        <div class="post">
 
-<hr style="clear:both; color:grey;">
+          <header class="post-header">
+            <h1 class="post-title">Radicalisation</h1>
+            <p class="post-description">An evolutionary perspective on the radicalization of sociopolitical views</p>
+          </header>
 
+          <article>
+            <p>I am working on this project as part of my pursuit of a Ph.D. degree at the Department of Psychology, Oakland University, USA, under the supervision of <a href="https://www.researchgate.net/profile/Todd-Shackelford" target="_blank" rel="noopener noreferrer">Todd K. Shackelford</a> (committee members: <a href="http://www.zeigler-hill.com/" target="_blank" rel="noopener noreferrer">Virgil Zeigler-Hill</a> &amp; <a href="https://www.mcdonaldpeplab.com/people" target="_blank" rel="noopener noreferrer">Melissa M. McDonald</a>).</p>
 
+<p>The human evolutionary history extends back hundreds of thousands of years. Social media, a digital social networking tool, is a relatively novel addition to our lives, and yet it has already drastically changed the way we function as a society. Social media also has impacted the process of constructing opinions on our surrounding reality, including forming views about important matters, such as sociopolitical views.</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_radical1-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_radical1-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_radical1-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_radical1.jpg" title="Angry mob">
 
+  </picture>
 
-  <div id="rss-feed"></div>
+</figure>
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_radical2-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_radical2-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_radical2-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_radical2.jpg" title="Struggling">
 
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
+  </picture>
 
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
+</figure>
 
-              var feedItem = "<div";
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
 
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_radical3-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_radical3-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_radical3-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img class="img-fluid rounded z-depth-1" src="/assets/img/proj_radical3.jpg" title="Storming the Capitol">
 
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
+  </picture>
 
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
+</figure>
 
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
+    </div>
 </div>
-</body></body>
-</html>
+
+<p>The objective of this project is to delve into the intricacies of the development of the sociopolitical perspectives of the US Americans, utilizing an evolutionary-based theoretical framework. In order to achieve this objective, a thorough examination of the participants’ utilization of social media will be conducted. This examination will encompass an assessment of the extent to which their sociopolitical views have been radicalized in regards to the issues that are specific to the United States. Furthermore, a comprehensive analysis of their online conduct, from the perspective of evolutionary psychology, will be executed in order to determine whether their behavior in social media is predominantly focused on cooperative or hostile interactions.</p>
+
+          </article>
+
+        </div>
 
     </div>
 

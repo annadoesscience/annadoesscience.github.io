@@ -9,9 +9,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Anna  Szala | news</title>
+    <title>Anna  Szala | Social topics</title>
     <meta name="author" content="Anna  Szala" />
-    <meta name="description" content="My Mastodon feed." />
+    <meta name="description" content="How much language use is actually on social topics – Human conversational behavior revisited" />
     <meta name="keywords" content="anna, szala, evolutionary psychology, science" />
 
 
@@ -32,7 +32,7 @@
     <link rel="shortcut icon" href="/assets/img/favicon.png"/>
     
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://annadoesscience.github.io/news/">
+    <link rel="canonical" href="https://annadoesscience.github.io/projects/1_soctop/">
     
     <!-- Dark Mode -->
     
@@ -49,8 +49,7 @@
   <!-- Body -->
   <body class="fixed-top-nav ">
 
-    <body>
-<!-- Header -->
+    <!-- Header -->
     <header>
 
       <!-- Nav Bar -->
@@ -73,8 +72,8 @@
                 <a class="nav-link" href="/">about</a>
               </li>
               <!-- News -->
-              <li class="nav-item active">
-                <a class="nav-link" href="/news">news<span class="sr-only">(current)</span></a>
+              <li class="nav-item ">
+                <a class="nav-link" href="/news">news</a>
               </li>
 
               <!-- Other pages -->
@@ -104,108 +103,52 @@
 
     <!-- Content -->
     <div class="container mt-5">
-      <header class="post-header">
-<h1 class="post-title">news</h1>
-<p class="post-description">My Mastodon feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss" target="_blank" rel="noopener noreferrer">here</a></u>. </p>
-</header>
+      <!-- page.html -->
+        <div class="post">
 
-<hr style="clear:both; color:grey;">
+          <header class="post-header">
+            <h1 class="post-title">Social topics</h1>
+            <p class="post-description">How much language use is actually on social topics – Human conversational behavior revisited</p>
+          </header>
 
+          <article>
+            <p><u>Co-authors</u>: Szala, A., Placiński, M., Poniewierska, A. E., Schmeichel, A., Żywiczyński, P., &amp; Wacewicz, S. from <a href="https://cles.umk.pl/" target="_blank" rel="noopener noreferrer">Centre for Language Evolution Studies</a> and our wonderful ✨student helpers✨.</p>
 
+<p>This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b>.</p>
 
+<p>Pre-registration available <a href="https://doi.org/10.17605/OSF.IO/KJF4E" target="_blank" rel="noopener noreferrer">here</a>!</p>
 
-  <title>RSS Feed</title>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <style>
-    .published-date {
-      color: gray;
-    }
-    .post-separator {
-      border-top: 1px solid #ccc;
-      margin-top: 20px;
-      padding-top: 20px;
-    }
-    .post-content {
-      max-width: 600px; /* Adjust this value based on your column width */
-      margin: 0 auto; /* To center the content */
-    }
-    .post-content img {
-      max-width: 100%; /* Ensure images are never wider than the column */
-      height: auto; /* Preserve the aspect ratio */
-      display: block; /* Remove any extra spacing below the images */
-      margin: 10px 0; /* Add some vertical spacing between images and text */
-    }
-  </style>
+<p>How much language use is on social topics? In a pioneering study, Dunbar and colleagues (<a href="https://www.researchgate.net/profile/Robin-Dunbar/publication/227022782_Human_conversational_behavior/links/53dfc58d0cf2aede4b493d06/Human-conversational-behavior.pdf" target="_blank" rel="noopener noreferrer">1997</a>) estimated that “gossip” – understood loosely as “conversation about social and personal topics” – accounted for about two-thirds of time spent on a conversation. This result has been extremely consequential: in addition to its considerable popular impact, it was instrumental in motivating some of the most influential theories of the evolution of the human brain and cognition (the Social Brain theory) and the evolution of language (the “gossip” theory of language origins). However, it is not clear that the theoretical importance of this estimate actually corresponds to the strength of its evidential basis: the authors relied on a relatively small number of conversations (N = 45), collected exclusively in open public environments, between a sample of participants with a very limited demographic and geographic distribution. Secondly, their definition and operationalisation of “social topics” was opaque, as was its connection to the proposed adaptive functions of language.</p>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        <div class="img-fluid rounded z-depth-1 align-self-center">
+            <figure>
 
-  <div id="rss-feed"></div>
+  <picture>
+    <source media="(max-width: 480px)" srcset="/assets/img/proj_soctop-480.webp"></source>
+    <source media="(max-width: 800px)" srcset="/assets/img/proj_soctop-800.webp"></source>
+    <source media="(max-width: 1400px)" srcset="/assets/img/proj_soctop-1400.webp"></source>
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/proj_soctop.jpg" title="Spokes ClarinPL database">
 
-  <script>
-    $(document).ready(function() {
-      var rssUrl = "https://fediscience.org/@anna.rss";
-      var numOfPosts = 10;
+  </picture>
 
-      $.ajax(rssUrl, {
-        accepts: {
-          xml: "application/rss+xml"
-        },
-        dataType: "xml",
-        success: function(data) {
-          var feedItems = [];
-          $(data)
-            .find("item")
-            .slice(0, numOfPosts)
-            .each(function(index) {
-              var item = $(this);
-              var title = item.find("title").text();
-              var link = item.find("link").text();
-              var pubDate = new Date(item.find("pubDate").text());
-              var description = item.find("description").text();
-              var mediaUrls = []; // Array to store multiple media URLs
+</figure>
 
-              item.find("media\\:content").each(function() {
-                var mediaUrl = $(this).attr("url");
-                mediaUrls.push(mediaUrl); // Add media URLs to the array
-              });
-
-              // Format the date and time in European format with dots
-              var options = { day: "numeric", month: "numeric", year: "numeric", hour: "numeric", minute: "numeric" };
-              var formattedDate = pubDate.toLocaleString("en-GB", options).replace(/\//g, '.');
-
-              var feedItem = "<div";
-
-              // Conditionally apply the post-separator class
-              if (index > 0) {
-                feedItem += " class='post-separator'";
-              }
-
-              feedItem += ">" +
-                "<h3><a href='" + link + "'>" + title + "</a></h3>" +
-                "<div class='post-content'>"; // Added post-content div for text and images
-
-              // Add media if available
-              if (mediaUrls.length > 0) {
-                mediaUrls.forEach(function(mediaUrl) {
-                  feedItem += "<img src='" + mediaUrl + "' alt='Post Image'>";
-                });
-              }
-
-              feedItem += "<p>" + description + "</p>" +
-                "<p class='published-date'>Published: " + formattedDate + "</p>" +
-                "</div>" + // Close post-content div
-                "</div>"; // Close post-separator div
-
-              feedItems.push(feedItem);
-            });
-
-          $("#rss-feed").html(feedItems.join(""));
-        }
-      });
-    });
-  </script>
+        </div>
+    </div>
 </div>
-</body></body>
-</html>
+<div class="caption">
+    In order to run the study, we used Spokes (Pęzik, <a href="https://ep.liu.se/ecp/116/009/ecp15116009.pdf" target="_blank" rel="noopener noreferrer">2014</a>), a corpus of Polish, casual, informal conversations (N = 669; &gt;2,6 million word tokens). 
+</div>
+
+<p>In this project, I revisit Dunbar’s question about the proportion of conversational time spent on discussing social matters with a new set of linguistic-analytic tools, but also with a deeper discussion of what type of language use should count as “social”. We already ran a short study (see: Szala et al., <a href="https://pure.mpg.de/rest/items/item_3398549_9/component/file_3405708/content#page=733" target="_blank" rel="noopener noreferrer">2022</a>) and found that the ratio of social topics (50.9%) to non-social topics (49.1%) is roughly equal. Based on the conclusions drawn from that study, regarding both the result obtained and the subsequent analysis of the study’s limitations, I expect the study to indicate that the proportion of social to non-social topics is greater than Dunbar’s suggested two-thirds.</p>
+
+
+          </article>
+
+        </div>
 
     </div>
 
