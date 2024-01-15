@@ -43,6 +43,10 @@ Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
 <hr style="clear:both; color:grey;">
 
+Fiala, V., Żywiczyński, P., <b>Szala, A.</b>, Placiński, M., & Wacewicz, S. (<i>in press</i>). Exploring the influence of word definition on AI-generated facial representations. International Conference on the Evolution of Language (Evolang).
+
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (<i>in press</i>). Exploring the content of casual Polish conversations. International Conference on the Evolution of Language (Evolang).
+
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (2023). Investigating the content of casual chatting: Human conversational behaviour revisited. <i>Human Ethology, 38</i>(Suppl.), HES123. <a href="https://doi.org/10.22330/he/38/suppl">https://doi.org/10.22330/he/38/suppl</a>
 
 <b>Szala, A.</b>, DeLecce, T., & Pazhoohi, F. (2022). The case of metal music: An application of sexual selection or a cognitive byproduct? <i>Human Ethology, 37</i>(Suppl.), HES73. <a href="https://ishe.org/wp-content/uploads/2022/08/HE_2022_37_suppl.pdf">https://doi.org/10.22330/he/37/suppl</a>
