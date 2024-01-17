@@ -7,6 +7,26 @@ nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scheduled</h2>
+<hr style="clear:both; color:grey;">
 
-Organize your courses by years, topics, or universities, however you like!
+2023—2024 ☀️ Summer semester — Lecturer
+<b>Foundations of Evolutionary Psychology</b>, Nicolaus Copernicus University in Toruń, Poland.
+
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past</h2>
+<hr style="clear:both; color:grey;">
+
+2020—2021 ❄️ Winter semester, PSY 2500 — Teacher Assistant
+<b>Research Design in Psychology</b>, Oakland University, USA.
+
+2020—2021 ❄️ Winter semester, PSY 1000 — Teacher Assistant
+<b>Research Design in Psychology</b>, Oakland University, USA.
+
+2020—2021 🍂 Autumn semester, PSY 2500 — Teacher Assistant
+<b>Research Design in Psychology</b>, Oakland University, USA.
+
+2019—2020 ❄️ Winter semester, PSY 2500 — Teacher Assistant
+<b>Research Design in Psychology</b>, Oakland University, USA.
+
+2019—2020 ❄️ Winter semester, PSY 3180 — Teacher Assistant
+<b>Biological Psychology</b>, Oakland University, USA.
