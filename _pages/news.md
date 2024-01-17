@@ -1,8 +1,9 @@
 ---
-layout: page
-title: news
+layout: default
 permalink: /news/
-nav: true
+title: news
+description: My Mastodon feed.
+nav: false
 ---
 
 <header class="post-header">
