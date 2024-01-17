@@ -45,7 +45,7 @@ Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (
 
 Fiala, V., Żywiczyński, P., <b>Szala, A.</b>, Placiński, M., & Wacewicz, S. (<i>in press</i>). Exploring the influence of word definition on AI-generated facial representations. International Conference on the Evolution of Language (Evolang).
 
-<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (<i>in press</i>). Exploring the content of casual Polish conversations. International Conference on the Evolution of Language (Evolang).
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (<i>in press</i>). Exploring the content of casual Polish conversations. International Conference on the Evolution of Language (Evolang). 
 
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (2023). Investigating the content of casual chatting: Human conversational behaviour revisited. <i>Human Ethology, 38</i>(Suppl.), HES123. <a href="https://doi.org/10.22330/he/38/suppl">https://doi.org/10.22330/he/38/suppl</a>
 
