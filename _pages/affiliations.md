@@ -15,6 +15,9 @@ CLES is a scientific group at the Faculty of Languages, Nicolaus Copernicus Univ
 <a href="https://www.facebook.com/mskngoryl/"><b>Interdepartmental Student Association ‘Goryl’</b></a> 🇵🇱❤️<br />
 ‘Goryl’ (eng. gorilla) is a student association at the Department of Human Biology, University of Wrocław, Poland. Goryl associates students fascinated with the biological basis of human behaviour. More precisely, Goryl’s interests concern: primatology, evolutionary psychology, anthropogenesis, the biology of human attractiveness, behavioural ecology, and behavioural genetics of humans.<br /><br />
 
+<a href="https://www.cambridge.org/core/membership/ehbea"><b>European Human Behaviour and Evolution Association</b></a> 🇪🇺<br />
+EHBEA is a cross-disciplinary organization dedicated to fostering the work of European scholars exploring evolutionary explanations for human cognition, behaviour, and society. The association is committed to promoting research with a wide-ranging, inclusive, and interdisciplinary approach, advocating for robust scientific inquiry, emphasizing solid theoretical frameworks and collaboration across disciplines.<br /><br />
+
 <a href="https://www.toddkshackelford.com/"><b>Evolutionary Psychology Lab</b></a> 🇺🇸<br />
 The lab focuses on the psychology of close relationships, particularly romantic relationships. EPL studies phenomena such as jealousy, infidelity, relationship satisfaction, physical abuse, and sexuality.<br /><br />
 
