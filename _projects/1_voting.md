@@ -15,7 +15,7 @@ A partnership has been forged with a distinguished UK-based research group, the 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <div class="img-fluid rounded z-depth-1 align-self-center">
-            {% include figure.html path="assets/img/proj_soctop.jpg" title="Spokes ClarinPL database" %}
+            {% include figure.html path="assets/img/proj_voting.jpg" title="Voting" %}
         </div>
     </div>
 </div>
