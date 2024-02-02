@@ -15,7 +15,7 @@ A partnership has been forged with a distinguished UK-based research group, the 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
         <div class="img-fluid rounded z-depth-1 align-self-center">
-            {% include figure.html path="assets/img/proj_voting.jpg" title="Voting" %}
+            {% include figure.html path="assets/img/proj_voting.jpg" title="A man screaming at the box. It must be a very bad box. What did you do to disappoint the man, box?" %}
         </div>
     </div>
 </div>
