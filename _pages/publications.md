@@ -39,7 +39,7 @@ Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2022, April 20). Discrimination bas
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Book chapters</h2>
 <hr style="clear:both; color:grey;">
 
-<b>Szala, A.</b>, & Wacewicz, S. (submitted). <a href="https://www.ktpn.org/s%C5%82ownik">Polskie Towarzystwo Nauk o Człowieku i Ewolucji</a> [Polish Society for Human and Evolution Studies]. In: Walczak, K. (ed.). <i>Słownik Polskich Towarzystw Naukowych</i> [Dictionary of Polish Scientific Societies]. Kaliskie Towarzystwo Przyjaciół Nauk.
+<b>Szala, A.</b> & Wacewicz, S. (submitted). <a href="https://www.ktpn.org/s%C5%82ownik">Polskie Towarzystwo Nauk o Człowieku i Ewolucji</a> [Polish Society for Human and Evolution Studies]. In: Walczak, K. (ed.). <i>Słownik Polskich Towarzystw Naukowych</i> [Dictionary of Polish Scientific Societies]. Kaliskie Towarzystwo Przyjaciół Nauk.
 
 Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (Ed.). <i>War, Peace, and Human Nature: The Convergence of Evolutionary and Cultural Views</i>. Oxford University Press. <a href="https://doi.org/10.1093/acprof:oso/9780199858996.003.0023">https://doi.org/10.1093/acprof:oso/9780199858996.003.0023</a>
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
