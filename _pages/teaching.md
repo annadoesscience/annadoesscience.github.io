@@ -10,7 +10,7 @@ nav_order: 5
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scheduled</h2>
 <hr style="clear:both; color:grey;">
 
-2023—2024 ☀️ Summer semester — Lecturer<br />
+2023—2024 ☀️ Summer semester, 2404-P-MF-FEP — Lecturer<br />
 <b>Foundations of Evolutionary Psychology</b>, Nicolaus Copernicus University in Toruń, Poland.
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past</h2>
