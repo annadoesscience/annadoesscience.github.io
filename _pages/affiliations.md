@@ -6,7 +6,7 @@ description: Scientific organizations I belong to or used to belong to.
 nav: true
 ---
 
-<a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱 Function: <b>Executive Board</b> and <s>Twitter</s> 𝕏 management<br />
+<a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱 Function: <b>Executive Board</b> and social media management<br />
 PTNCE aims to associate scientists and students of various scientific disciplines interested in the application of the evolutionary perspective in the following research areas: biology, ecology, human behaviour, and culture studies.<br /><br />
 
 <a href="https://cles.umk.pl/"><b>Centre for Language Evolution Studies</b></a> 🇵🇱<br />
