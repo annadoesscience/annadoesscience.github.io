@@ -11,7 +11,7 @@ nav_order: 5
 <hr style="clear:both; color:grey;">
 
 2023—2024 ☀️ Summer semester, 2404-P-MF-FEP — Lecturer<br />
-<b>Foundations of Evolutionary Psychology</b>, Nicolaus Copernicus University in Toruń, Poland.
+<a href="https://usosweb.umk.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=2404-P-MF-FEP&callback=g_23bbd5bb&lang=en"><b>Foundations of Evolutionary Psychology</b></a>, Nicolaus Copernicus University in Toruń, Poland.
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past</h2>
 <hr style="clear:both; color:grey;">
