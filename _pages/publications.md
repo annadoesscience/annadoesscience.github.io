@@ -6,6 +6,11 @@ description: My publications by categories in reversed chronological order.
 #years: [1956, 1950, 1935, 1905]
 nav: true
 ---
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Preprints</h2>
+<hr style="clear:both; color:grey;">
+
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., … Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
+
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
