@@ -5,6 +5,22 @@ title: affiliations
 description: Scientific organizations I belong to or used to belong to.
 nav: true
 ---
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Universities and research institutions</h2>
+<hr style="clear:both; color:grey;">
+Universities or research institutions I am currently affiliated with.<br /><br />
+
+🔎 Research: <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław. 🇵🇱 <br /><br />
+
+👩‍🏫 Teaching: <a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br /><br />
+
+🔎 Research: <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br /><br />
+
+🎓 PhD candidate: <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Michigan. 🇺🇸 <br /><br />
+
+
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific organizations</h2>
+<hr style="clear:both; color:grey;">
+Scientific organizations I belong to or used to belong to.<br /><br />
 
 <a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱 Function: <b>Executive Board</b> and social media management<br />
 PTNCE aims to associate scientists and students of various scientific disciplines interested in the application of the evolutionary perspective in the following research areas: biology, ecology, human behaviour, and culture studies.<br /><br />
