@@ -15,7 +15,7 @@ nav: true
 
 🔎 Research:<br /><a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br /><br />
 
-🎓 PhD candidate:<br /><a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Michigan. 🇺🇸 <br /><br />
+🎓 PhD candidate:<br /><a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br /><br />
 
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific organizations</h2>
