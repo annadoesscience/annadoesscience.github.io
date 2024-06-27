@@ -9,13 +9,13 @@ nav: true
 <hr style="clear:both; color:grey;">
 <p align="right">Universities and research institutions I am currently affiliated with.</p><br />
 
-🔎 Research:<br /><a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław. 🇵🇱 <br /><br />
+🔎 Research:<br /><a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław. 🇵🇱 <br />
 
-👩‍🏫 Teaching:<br /><a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br /><br />
+👩‍🏫 Teaching:<br /><a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
 
-🔎 Research:<br /><a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br /><br />
+🔎 Research:<br /><a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
 
-🎓 PhD candidate:<br /><a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br /><br />
+🎓 PhD candidate:<br /><a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br />
 
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific organizations</h2>
