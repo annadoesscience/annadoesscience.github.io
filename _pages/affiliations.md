@@ -7,7 +7,7 @@ nav: true
 ---
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Universities and research institutions</h2>
 <hr style="clear:both; color:grey;">
-<p align="right">Universities or research institutions I am currently affiliated with.</p><br /><br />
+<p align="right">Universities and research institutions I am currently affiliated with.</p><br /><br />
 
 🔎 Research:<br /><a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław. 🇵🇱 <br /><br />
 
