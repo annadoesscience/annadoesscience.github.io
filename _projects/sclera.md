@@ -3,11 +3,11 @@ layout: page
 title: Ocular attractiveness
 description: Facial attractiveness and ocular morphology
 img: assets/img/proj_sclera.jpg
-importance: 23
-category: Side Projects
+importance: 38
+category: Old Projects
 ---
 
-We do not study eyes in marmosets only! Here is a study conducted with Danel, D. P., Perea García, J. O., Lewandowski Z., Fedurek P., Kleisner K., and Wacewicz S.!
+We do not study eyes in marmosets only! <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284079">Here</a> is a study about humans.
 
 The link between human ocular morphology and attractiveness, especially in the context of its potential adaptive function, is an underexplored area of research. 
 
