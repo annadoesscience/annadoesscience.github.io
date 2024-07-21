@@ -20,7 +20,7 @@ The link between human ocular morphology and attractiveness, especially in the c
     </div>
 </div>
 <div class="caption">
-    Eye of a White European.
+    Eye of a male European.
 </div>
 
 In our study, we examined the association between facial attractiveness and three sexually dimorphic measures of ocular morphology in White Europeans: the sclera size index, width-to-height ratio, and relative iris luminance. Sixty participants (30 women) assessed the attractiveness of the opposite-sex photographs of 50 men and 50 women. Our results show that in both men and women, none of the three measures was linked to the opposite sex ratings of facial attractiveness. We conclude that those ocular morphology measures may play a limited role in human mate preferences.
