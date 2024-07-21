@@ -3,7 +3,7 @@ layout: page
 title: Pets
 description: Let's talk about pets!
 img: assets/img/proj_pets.jpg
-importance: 24
+importance: 23
 category: Side Projects
 ---
 
