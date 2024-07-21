@@ -27,5 +27,5 @@ Among the many genes in <i>Plasmodium falciparum</i>, some are more likely than 
 ✤ Investigating the Coronaviridae genomes<br />
 I participated in a study of human and non-human Coronaviridae genomes hoping to spot patterns in their low complexity regions that could potentially help us understand COVID-19 better.
 
-✤ Investigating the BTNL2 and PKDREJ genes<br />
+✤ Investigating the human BTNL2 and PKDREJ genes<br />
 I analysed single nucleotide polymorphisms in BTNL2 and PKDREJ genes that could be responsible for problems with proteins coded by these genes. I was working on FASTA files, analyzing them with BLAT – searching for genetic correlations between humans and non-human apes. 
