@@ -4,7 +4,7 @@ title: Conspirational chatter
 description: The transfer of conspirational messages
 img: assets/img/proj_conspirationality.jpg
 importance: 5
-category: Side Projects
+category: Main Projects
 ---
 
 This is a brand new project in collaboration with <a href="https://www.unine.ch/ipto/home/collaborateurstrices/miani-alessandro.html">Alessandro Miani</a> and <a href="https://scholar.google.com/citations?user=VX2w_T4AAAAJ&hl=pl">Sławomir Wacewicz</a>.
