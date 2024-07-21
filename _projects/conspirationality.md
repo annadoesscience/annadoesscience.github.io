@@ -3,7 +3,7 @@ layout: page
 title: Conspirational chatter
 description: The transfer of conspirational messages
 img: assets/img/proj_conspirationality.jpg
-importance: 15
+importance: 5
 category: Side Projects
 ---
 
