@@ -42,7 +42,7 @@ EPL studies psychological aspects of close relationships, including jealousy, in
 The lab utilizes custom-made computer programs to better analyze large biological data sets. The main goal of the lab is to improve the understanding of ancient prokaryote evolution and to investigate the evolutionary origin of infectious diseases.<br />
 
 <a href="https://www.hbes.com/"><b>Human Behavior & Evolution Society</b></a> 🇺🇸<br />
-This is a society for those studying the evolution of human behaviour. Scientific perspectives range from evolutionary psychology to evolutionary anthropology and cultural evolution. <br />
+HBES is a society for those studying the evolution of human behaviour. Scientific perspectives range from evolutionary psychology to evolutionary anthropology and cultural evolution. <br />
 
 <a href="https://twitter.com/HumeLaboratory"><b>HumeLaboratory</b></a> 🇫🇮<br />
 Evolutionary-oriented lab at the Åbo Akademi University in Finland. The lab’s research is focused on genomic conflict and kinship, evolutionary psychological medicine, and social cognition.<br />
