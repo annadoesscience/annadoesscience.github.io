@@ -4,7 +4,7 @@ title: Analog Missions
 description: Trying to put humans into Space 🚀🧑‍🚀🌌🪐💫🛰️✨
 img: assets/img/proj_space2.jpg
 importance: 41
-category: Other Projects
+category: Wishlist
 ---
 
 Human analog missions are field tests in environments with physical similarities to extreme space conditions. Remote field tests are carried out in locations selected for their physical similarities to the challenging space environments of a planned mission. It is not possible for any analog to completely replicate all aspects of a human space mission on Earth, so a variety of analog activities are needed to examine different relevant concepts.
