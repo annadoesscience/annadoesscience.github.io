@@ -9,6 +9,8 @@ nav: true
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Preprints</h2>
 <hr style="clear:both; color:grey;">
 
+Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...[incl. <b>Szala, A.</b>]... Görzig, A. (2024, June 5). Large-scale cross-societal examination of real- and minimal-group biases. <a href="https://doi.org/10.31234/osf.io/5gpr4">https://doi.org/10.31234/osf.io/5gpr4</a>
+
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., … Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
 
 Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A., ...[incl. <b>Szala, A.</b>]... Lewis, S. C. (2021, December 7). Measuring the semantic priming effect across many languages. <a href="https://osf.io/preprints/osf/q4fjy">https://doi.org/10.31219/osf.io/q4fjy</a>
