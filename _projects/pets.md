@@ -7,7 +7,7 @@ importance: 24
 category: Side Projects
 ---
 
-A short and fun exploratory project! It is being conducted opportunistically while conducting the Social Topics project. :)
+A short and fun exploratory project! It is being conducted opportunistically while conducting the <a href="https://szala.org/projects/soctop/">Social Topics project</a>. :)
 
 The basic idea is that various demographic cohorts differ when it comes to how much they talk about pets. I am curious if the Spokes database (Pęzik, <a href="https://ep.liu.se/ecp/116/009/ecp15116009.pdf">2014</a>) would be enough to draw any meaningful conclusions about those conversations.
 
