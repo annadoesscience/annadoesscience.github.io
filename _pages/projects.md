@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of my research projects.
 nav: true
-display_categories: ['Main Projects', 'Side Projects', 'Old Projects', 'Other Projects']
+display_categories: ['Main Projects', 'Side Projects', 'Old Projects', 'Wishlist']
 horizontal: false
 ---
 
