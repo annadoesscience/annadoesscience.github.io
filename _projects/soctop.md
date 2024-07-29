@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Social topics
-description: How much language use is actually on social topics – Human conversational behavior revisited
+description: How much conversation content is actually social – Human conversational behaviour revisited
 img: assets/img/proj_soctop.jpg
 importance: 02
 category: Main Projects
 ---
 
-<u>Co-authors</u>: Szala, A., Placiński, M., Poniewierska, A. E., Schmeichel, A., Żywiczyński, P., & Wacewicz, S. from <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a> and our wonderful ✨student helpers✨. 
+<u>Co-authors</u>: Szala, A., <a href="https://scholar.google.com/citations?hl=en&user=VX2w_T4AAAAJ&view_op=list_works&sortby=pubdate">Wacewicz, S.</a>, <a href="https://scholar.google.com/citations?hl=en&user=p4l9uq8AAAAJ&view_op=list_works&sortby=pubdate">Placiński, M.</a>, Poniewierska, A. E., Schmeichel, A., <a href="https://scholar.google.pl/citations?hl=en&user=GiwuuzcAAAAJ&view_op=list_works&sortby=pubdate">Stefańczyk, M.</a>, <a href="https://scholar.google.pl/citations?hl=en&user=AVO-A00AAAAJ&view_op=list_works&sortby=pubdate">Żywiczyński, P.</a>, <a href="https://scholar.google.com/citations?hl=en&user=VoBNag8AAAAJ&view_op=list_works&sortby=pubdate">Dunbar, R. I. M.</a>, and our wonderful ✨student helpers✨. 
 
-This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b>. 
+This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b> and coordinated by the <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>.
 
 📌 Update (June 2024): This project was awarded third place 🥉 in the prestigious <a href="https://clarin-pl.eu/index.php/2024/06/24/wyniki-konkursu-2024-clarin-pl-dla-doktorantow-i-mlodych-naukowcow/">CLARIN-PL competition</a> rewarding best research work in the humanities and social sciences, recognising innovative and impactful studies that utilise the CLARIN-PL infrastructure. 
 
