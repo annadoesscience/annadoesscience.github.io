@@ -33,5 +33,5 @@ We have already collected the data in high schools in Wrocław and Dynów; this 
     </div>
 </div>
 <div class="caption">
-    The map of Poland with Wrocław, Dynów, and Toruń cities marked on it."
+    The map of Poland with Wrocław, Dynów, and Toruń cities marked on it.
 </div>
