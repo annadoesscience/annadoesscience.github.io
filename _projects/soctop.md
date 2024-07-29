@@ -7,7 +7,7 @@ importance: 02
 category: Main Projects
 ---
 
-<u>Co-authors</u>: Szala, A., <a href="https://scholar.google.com/citations?hl=en&user=VX2w_T4AAAAJ&view_op=list_works&sortby=pubdate">Wacewicz, S.</a>, <a href="https://scholar.google.com/citations?hl=en&user=p4l9uq8AAAAJ&view_op=list_works&sortby=pubdate">Placiński, M.</a>, Poniewierska, A. E., Schmeichel, A., <a href="https://scholar.google.pl/citations?hl=en&user=GiwuuzcAAAAJ&view_op=list_works&sortby=pubdate">Stefańczyk, M.</a>, <a href="https://scholar.google.pl/citations?hl=en&user=AVO-A00AAAAJ&view_op=list_works&sortby=pubdate">Żywiczyński, P.</a>, <a href="https://scholar.google.com/citations?hl=en&user=VoBNag8AAAAJ&view_op=list_works&sortby=pubdate">Dunbar, R. I. M.</a>, and our wonderful ✨student helpers✨. 
+<u>Co-authors</u>: Szala, A., <a href="https://scholar.google.com/citations?hl=en&user=VX2w_T4AAAAJ&view_op=list_works&sortby=pubdate">Wacewicz, S.</a>, <a href="https://scholar.google.com/citations?hl=en&user=p4l9uq8AAAAJ&view_op=list_works&sortby=pubdate">Placiński, M.</a>, Poniewierska, A. E., Schmeichel, A., <a href="https://scholar.google.pl/citations?hl=en&user=GiwuuzcAAAAJ&view_op=list_works&sortby=pubdate">Stefańczyk, M. M.</a>, <a href="https://scholar.google.pl/citations?hl=en&user=AVO-A00AAAAJ&view_op=list_works&sortby=pubdate">Żywiczyński, P.</a>, <a href="https://scholar.google.com/citations?hl=en&user=VoBNag8AAAAJ&view_op=list_works&sortby=pubdate">Dunbar, R. I. M.</a>, and our wonderful ✨student helpers✨. 
 
 This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b> and coordinated by the <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>.
 
