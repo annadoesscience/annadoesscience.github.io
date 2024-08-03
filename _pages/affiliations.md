@@ -17,8 +17,10 @@ nav: true
 <a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
 
 🎓 Studying:<br />
-PhD candidate, Psychology: <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br />
-Master's degree, Cognitive science:  <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
+PhD candidate, Psychology:<br />
+<a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br />
+Master's degree, Cognitive science:<br />
+<a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
 
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific organizations</h2>
