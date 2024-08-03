@@ -18,9 +18,9 @@ nav: true
 
 🎓 <u>Studying</u>:<br />
 ✤ <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br />
-&nbsp;&nbsp;&nbsp;PhD candidate, Psychology 𝚿<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD candidate, Psychology 𝚿<br />
 ✤ <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
-&nbsp;&nbsp;&nbsp;Master's degree, Cognitive science 🧠<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's degree, Cognitive science 🧠<br />
 
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific organizations</h2>
