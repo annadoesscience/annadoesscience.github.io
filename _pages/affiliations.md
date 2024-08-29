@@ -10,16 +10,16 @@ nav: true
 <p align="right">Current affiliations.</p>
 
 🔎 <u>Researching</u>:<br />
-✤ <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław. 🇵🇱 <br />
-✤ <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
+✤ <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław, Poland. <br />
+✤ <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 
 👩‍🏫 <u>Teaching</u>:<br />
-✤ <a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
+✤ <a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 
 🎓 <u>Studying</u>:<br />
-✤ <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan. 🇺🇸 <br />
+✤ <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan, USA. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD candidate, Psychology 𝚿<br />
-✤ <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń. 🇵🇱 <br />
+✤ <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's degree, Cognitive science 🧠<br />
 
 
