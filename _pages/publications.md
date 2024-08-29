@@ -18,6 +18,8 @@ Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A.
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (<i>in press</i>). How much conversation content is actually social: Human conversational behaviour revisited. <a href="https://www.cambridge.org/core/journals/language-and-cognition"><i>Language and Cognition</i></a>.
+
 Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. <i>Journal of Language Evolution, lzad010</i>. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
 
 Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
@@ -28,7 +30,7 @@ Dorison, C., Lerner, J. S., Heller, B. H., Rothman, A., Kawachi, I. I., Wang, K.
 
 Psychological Science Accelerator Self-Determination Theory Collaboration [incl. <b>Szala, A.</b>] (2022). A global experiment on motivating social distancing during the COVID-19 pandemic. <i>Proceedings of the National Academy of Sciences, 119</i>(22), e2111091119. <a href="https://doi.org/10.31234/osf.io/n3dyf">https://doi.org/10.31234/osf.io/n3dyf</a>
 
-Wang, K., Goldenberg, A., Dorison, C. A., Miller, J. K., Uusberg, A., Lerner, J. S., Gross, J. J., Agesin, B. B., Bernardo, M., Campos, O., Eudave, L., Grzech, K., Ozery, D. H., Jackson, E. A., Luis Garcia, E. O., Drexler, S. M., Jurković, A. P., Rana, K., Wilson, J. P., …[<b>Szala, A.</b>]… Moshontz, H. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. <i>Nature Human Behavior, 5</i>(8), 1089–1110. <a href="https://doi.org/10.1038/s41562-021-01173-x">https://doi.org/10.1038/s41562-021-01173-x</a>
+Wang, K., Goldenberg, A., Dorison, C. A., Miller, J. K., Uusberg, A., Lerner, J. S., Gross, J. J., Agesin, B. B., Bernardo, M., Campos, O., Eudave, L., Grzech, K., Ozery, D. H., Jackson, E. A., Luis Garcia, E. O., Drexler, S. M., Jurković, A. P., Rana, K., Wilson, J. P., ...[<b>Szala, A.</b>]... Moshontz, H. (2021). A multi-country test of brief reappraisal interventions on emotions during the COVID-19 pandemic. <i>Nature Human Behavior, 5</i>(8), 1089–1110. <a href="https://doi.org/10.1038/s41562-021-01173-x">https://doi.org/10.1038/s41562-021-01173-x</a>
 
 Danel, D. P., Kozak, K., <b>Szala, A.</b>, Dziedzic-Danel, A., Kunert-Keil, C., Seeliger, J., & Siennicka, A. (2020). The relation between premenstrual syndrome and resting cardiac vagal tone in young healthy females: the role of hormonal contraception. <i>Neurophysiology, 51</i>(6), 447–454. <a href="https://doi.org/10.1007/s11062-020-09841-w">https://doi.org/10.1007/s11062-020-09841-w</a>
 
