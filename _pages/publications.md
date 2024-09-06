@@ -53,10 +53,11 @@ Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2022, April 20). Discrimination bas
 <b>Szala, A.</b> & Wacewicz, S. (submitted). <a href="https://www.ktpn.org/s%C5%82ownik">Polskie Towarzystwo Nauk o Człowieku i Ewolucji</a> [Polish Society for Human and Evolution Studies]. In: Walczak, K. (ed.). <i>Słownik Polskich Towarzystw Naukowych</i> [Dictionary of Polish Scientific Societies]. Kaliskie Towarzystwo Przyjaciół Nauk.
 
 Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (Ed.). <i>War, Peace, and Human Nature: The Convergence of Evolutionary and Cultural Views</i>. Oxford University Press. <a href="https://doi.org/10.1093/acprof:oso/9780199858996.003.0023">https://doi.org/10.1093/acprof:oso/9780199858996.003.0023</a>
+
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
 <hr style="clear:both; color:grey;">
 
-Fiala, V., Żywiczyński, P., <b>Szala, A.</b>, Placiński, M., & Wacewicz, S. (<i>in press</i>). Exploring the influence of word definition on AI-generated facial representations. International Conference on the Evolution of Language (Evolang).
+Fiala, V., Żywiczyński, P., Szala, A., Placiński, M. & Wacewicz, S. (2024). Exploring the influence of word definition on AI-generated facial representations. In Nölle, J., Raviv, L., Graham, K. E., Hartmann, S., Jadoul, Y., Josserand, M., Matzinger, T., Mudd, K., Pleyer, M., Slonimska, A., Wacewicz, S. & Watson, S. (Eds.): The Evolution of Language: Proceedings of the 15th International Conference (Evolang XV). <a href="https://evolang2024.github.io/proceedings/evolang15_proceedings.pdf">https://doi.org/10.17617/2.3587960</a>.
 
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., & Żywiczyński, P. (<i>in press</i>). Exploring the content of casual Polish conversations. International Conference on the Evolution of Language (Evolang). 
 
