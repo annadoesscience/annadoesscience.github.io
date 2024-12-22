@@ -6,7 +6,7 @@ img: assets/img/proj_proxi1.jpg
 importance: 06
 category: Main Projects
 ---
-
+📌 Update (December 2024): We are almost finished with Toruń data collection! We should be done in the middle of January. ✨
 📌 Update (November 2024): We started the data collection. Wish us good luck! 🥳
 
 This is the main project that I currently conduct at the <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Wrocław, Poland. My co-workers are the wonderful <a href="https://scholar.google.com/citations?hl=en&user=6l0Es84AAAAJ&view_op=list_works&sortby=pubdate">Dariusz Danel</a> and <a href="https://scholar.google.com/citations?hl=en&user=WZWu5iYAAAAJ&view_op=list_works&sortby=pubdate">Piotr Fedurek</a>.
