@@ -18,7 +18,7 @@ Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A.
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
-<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (<i>in press</i>). How much conversation content is actually social: Human conversational behaviour revisited. <a href="https://www.cambridge.org/core/journals/language-and-cognition"><i>Language and Cognition</i></a>.
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2025). How much conversation content is actually social: Human conversational behaviour revisited. <i>Language and Cognition, 17</i>, e11. <a href="https://www.cambridge.org/core/journals/language-and-cognition/article/how-much-conversation-content-is-actually-social-human-conversational-behaviour-revisited/61BF5C91583F04053BE9471ED96FAE1D">http://doi.org/10.1017/langcog.2024.54</a>
 
 Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. <i>Journal of Language Evolution, lzad010</i>. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
 
