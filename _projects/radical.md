@@ -3,7 +3,7 @@ layout: page
 title: Radicalisation
 description: An evolutionary perspective on the radicalization of sociopolitical views
 img: assets/img/proj_radical1.jpg
-importance: 07
+importance: 38
 category: Old Projects
 ---
 
