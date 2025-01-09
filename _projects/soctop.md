@@ -3,8 +3,8 @@ layout: page
 title: Social topics
 description: How much conversation content is actually social – Human conversational behaviour revisited
 img: assets/img/proj_soctop.jpg
-importance: 02
-category: Main Projects
+importance: 39
+category: Old Projects
 ---
 
 <u>Co-authors</u>: Szala, A., <a href="https://scholar.google.com/citations?hl=en&user=VX2w_T4AAAAJ&view_op=list_works&sortby=pubdate">Wacewicz, S.</a>, <a href="https://scholar.google.com/citations?hl=en&user=p4l9uq8AAAAJ&view_op=list_works&sortby=pubdate">Placiński, M.</a>, Poniewierska, A. E., Schmeichel, A., <a href="https://scholar.google.pl/citations?hl=en&user=GiwuuzcAAAAJ&view_op=list_works&sortby=pubdate">Stefańczyk, M. M.</a>, <a href="https://scholar.google.pl/citations?hl=en&user=AVO-A00AAAAJ&view_op=list_works&sortby=pubdate">Żywiczyński, P.</a>, <a href="https://scholar.google.com/citations?hl=en&user=VoBNag8AAAAJ&view_op=list_works&sortby=pubdate">Dunbar, R. I. M.</a>, and our wonderful ✨student helpers✨. 
