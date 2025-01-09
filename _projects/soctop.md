@@ -11,6 +11,8 @@ category: Main Projects
 
 This work is supported by the <b>NCN grant UMO-2019/34/E/HS2/00248</b> and coordinated by the <a href="https://cles.umk.pl/">Centre for Language Evolution Studies</a>.
 
+📌 Update (January 2025): The article was <a href="https://www.cambridge.org/core/journals/language-and-cognition/article/how-much-conversation-content-is-actually-social-human-conversational-behaviour-revisited/61BF5C91583F04053BE9471ED96FAE1D">published</a>. I consider that to be the official end of this project. However, we already have some ideas regarding the next steps. 🤫 Stay tuned!
+
 📌 Update (August 2024): The study has been accepted for publication in <a href="https://www.cambridge.org/core/journals/language-and-cognition"><i>Language and Cognition</i></a>! 🥳
 
 📌 Update (June 2024): This project was awarded third place 🥉 in the prestigious <a href="https://clarin-pl.eu/index.php/2024/06/24/wyniki-konkursu-2024-clarin-pl-dla-doktorantow-i-mlodych-naukowcow/">CLARIN-PL competition</a> rewarding best research work in the humanities and social sciences, recognising innovative and impactful studies that utilise the CLARIN-PL infrastructure. 
