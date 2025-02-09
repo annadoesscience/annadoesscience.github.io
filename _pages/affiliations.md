@@ -37,7 +37,8 @@ nav: true
 <hr style="clear:both; color:grey;">
 
 <u>Current</u>:<br />
-<a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱 Function: <b>Executive Board</b> and social media management<br />
+<a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function: <b>Executive Board</b> and social media management<br />
 <a href="https://cles.umk.pl/"><b>Centre for Language Evolution Studies</b></a> 🇵🇱<br />
 <a href="https://www.cambridge.org/core/membership/ehbea"><b>European Human Behaviour and Evolution Association</b></a> 🇪🇺<br />
 <a href="https://www.hbes.com/"><b>Human Behavior & Evolution Society</b></a> 🇺🇸<br />
