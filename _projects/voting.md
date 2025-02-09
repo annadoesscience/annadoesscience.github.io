@@ -3,7 +3,7 @@ layout: page
 title: Electoral Sentiment Study
 description: Investigating the emotional landscape of electoral participation
 img: assets/img/proj_voting.jpg
-importance: 04
+importance: 06
 category: Main Projects
 ---
 
