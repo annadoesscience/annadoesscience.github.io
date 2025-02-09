@@ -21,7 +21,7 @@ nav: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's degree, Cognitive science 🧠<br />
 
 
-<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Ongoing collabrations</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Ongoing collaborations</h2>
 <hr style="clear:both; color:grey;">
 
 <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Poland.
