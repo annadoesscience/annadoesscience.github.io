@@ -16,7 +16,7 @@ Data collection goals:<br />
 ✅ Norway<br />
 👉🏻 Poland<br />
 
-I will be delighted to provide more details once the data is collected. 🍄
+I will be delighted to provide more details once the data is collected. 🍄<br />
 
 
 <div class="row">
