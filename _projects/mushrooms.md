@@ -27,5 +27,5 @@ I will be delighted to provide more details once the data is collected. 🍄
     </div>
 </div>
 <div class="caption">
-    <i>Boletus edulis</i>, the most desired trophy of every Polish mushroom picker.
+    The desired trophy of every Polish mushroom picker.
 </div>
