@@ -3,7 +3,7 @@ layout: page
 title: Behavioural Immunity
 description: Analyzing how social behaviours are shaped by perceived health risks
 img: assets/img/proj_proxi1.jpg
-importance: 06
+importance: 04
 category: Main Projects
 ---
 📌 Update (December 2024): We are almost finished with Toruń data collection! We should be done in the middle of January. ✨<br />
