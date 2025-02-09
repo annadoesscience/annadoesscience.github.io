@@ -11,10 +11,10 @@ A new project in collaboration with <a href="https://www4.uib.no/en/find-employe
 
 This research explores how people teach and learn across cultures by studying the transmission of mushroom knowledge. Participants will first learn about mushrooms and then either share what they’ve learned with another person or recall the information on their own. By analyzing these interactions, the study aims to uncover the mechanisms behind cultural knowledge transmission and how information changes over time.
 
-Data collection goals:
-✅ Cyprus
-✅ Norway
-👉🏻 Poland
+Data collection goals:<br />
+✅ Cyprus<br />
+✅ Norway<br />
+👉🏻 Poland<br />
 
 I will be delighted to provide more details once the data is collected. 🍄
 
