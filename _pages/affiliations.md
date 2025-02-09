@@ -39,21 +39,15 @@ nav: true
 Current:
 
 <a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱 Function: <b>Executive Board</b> and social media management<br />
-
 <a href="https://cles.umk.pl/"><b>Centre for Language Evolution Studies</b></a> 🇵🇱<br />
-
 <a href="https://www.cambridge.org/core/membership/ehbea"><b>European Human Behaviour and Evolution Association</b></a> 🇪🇺<br />
-
 <a href="https://www.hbes.com/"><b>Human Behavior & Evolution Society</b></a> 🇺🇸<br />
 
 Past: 
 
-<a href="https://www.facebook.com/mskngoryl/"><b>Interdepartmental Student Association ‘Goryl’</b></a> 🇵🇱❤️<br />
-
+<a href="https://www.facebook.com/mskngoryl/"><b>Interdepartmental Student Association ‘Goryl’</b></a> 🇵🇱 ❤️<br />
 <a href="https://www.toddkshackelford.com/"><b>Evolutionary Psychology Lab</b></a> 🇺🇸<br />
-
 <a href="https://oakland.edu/biology/directory/battistuzzi"><b>Battistuzzi’s Bioinformatics Lab</b></a> 🇺🇸<br />
-
 <a href="https://twitter.com/HumeLaboratory"><b>HumeLaboratory</b></a> 🇫🇮<br />
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past collaborations</h2>
