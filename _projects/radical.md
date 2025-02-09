@@ -7,7 +7,7 @@ importance: 38
 category: Old Projects
 ---
 
-📌 Update (February 2025): Honestly, given the prevalence of bots swarming social media with AI-generated content, I don't think I will ever be able to run this study. Any chance of examining organic radicalization is buried under synthetic noise. Between AI-generated posts, AI-driven engagement, and AI-powered moderation, I think I’m the only human still interested in this project. Thanks, GPT overlords.<br />
+📌 Update (February 2025): Honestly, given the prevalence of bots swarming social media with AI-generated content, I don't think I will ever be able to run this study. Any chance of examining organic radicalization is buried under synthetic noise. Between AI-generated posts, AI-driven engagement, and AI-powered moderation, I think I’m the only human still interested in this project. Thanks, GPT overlords.<br /><br />
 
 The human evolutionary history extends back hundreds of thousands of years. Social media, a digital social networking tool, is a relatively novel addition to our lives, and yet it has already drastically changed the way we function as a society. Social media also has impacted the process of constructing opinions on our surrounding reality, including forming views about important matters, such as sociopolitical views. 
 
