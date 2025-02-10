@@ -26,6 +26,8 @@ nav: true
 
 <a href="https://hirszfeld.pl/en/">Hirszfeld Institute of Immunology and Experimental Therapy</a>, Polish Academy of Sciences, Poland.
 
+<a href="https://www.iuibs.ulpgc.es/">Instituto Universitario de Investigaciones Biomédicas y Sanitarias</a>, University of Las Palmas de Gran Canaria, Spain.
+
 <a href="https://natur.cuni.cz/en/biology/departments-and-work-places/department-of-philosophy-and-history-of-science">Department of Philosophy and History of Science</a>, Charles University, Czechia.
 
 <a href="https://www.uib.no/en/isp">Department of Psychosocial Science</a>, University of Bergen, Norway.
