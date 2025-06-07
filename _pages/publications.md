@@ -18,7 +18,7 @@ Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A.
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Databases</h2>
 <hr style="clear:both; color:grey;">
 
-Wacewicz, S., Lewandowski, Z., Perea García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
+Wacewicz, S., Lewandowski, Z., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
@@ -27,7 +27,7 @@ Wacewicz, S., Lewandowski, Z., Perea García, J. O., Fiala, V., Sibierska, M., <
 
 Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. <i>Journal of Language Evolution, lzad010</i>. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
 
-Danel, D. P., Perea-Garcia, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
+Danel, D. P., Perea-García, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
 
 DeLecce, T., Pazhoohi, F., <b>Szala, A.</b>, & Shackelford, T. K. (2022). Extreme metal guitar skill: A case of intrasexual competition, intersexual selection, or byproduct? <i>Evolutionary Behavioral Sciences</i>. Advance online publication. <a href="https://doi.org/10.1037/ebs0000304">https://doi.org/10.1037/ebs0000304</a>
 
