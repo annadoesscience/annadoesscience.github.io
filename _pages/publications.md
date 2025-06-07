@@ -18,7 +18,7 @@ Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A.
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Databases</h2>
 <hr style="clear:both; color:grey;">
 
-Wacewicz, S., Lewandowski, Z., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
+Wacewicz, S., Lewandowski, Z., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. P. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
