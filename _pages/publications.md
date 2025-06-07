@@ -15,6 +15,11 @@ Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...
 
 Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A., ...[incl. <b>Szala, A.</b>]... Lewis, S. C. (2021, December 7). Measuring the semantic priming effect across many languages. <a href="https://osf.io/preprints/osf/q4fjy">https://doi.org/10.31219/osf.io/q4fjy</a>
 
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Databases</h2>
+<hr style="clear:both; color:grey;">
+
+Wacewicz, S., Lewandowski, Z., Perea García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
+
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
