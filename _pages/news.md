@@ -8,7 +8,7 @@ nav: false
 
 <header class="post-header">
 <h1 class="post-title">news</h1>
-<p class="post-description">My <a href="https://fediscience.org/@anna">Mastodon</a> feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss">here</a></u>. </p>
+<p class="post-description">My <a href="https://fediscience.org/@anna">Mastodon</a> feed. Get the RSS file <u><a href="https://fediscience.org/@anna.rss">here</a></u>. Half science, half personal content. Sometimes both at once.</p>
 </header>
 
 <hr style="clear:both; color:grey;">
