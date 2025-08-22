@@ -11,7 +11,7 @@ nav: true
 
 Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...[incl. <b>Szala, A.</b>]... Görzig, A. (2024, June 5). Large-scale cross-societal examination of real- and minimal-group biases. <a href="https://doi.org/10.31234/osf.io/5gpr4">https://doi.org/10.31234/osf.io/5gpr4</a>
 
-<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., … Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
 
 Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A., ...[incl. <b>Szala, A.</b>]... Lewis, S. C. (2021, December 7). Measuring the semantic priming effect across many languages. <a href="https://osf.io/preprints/osf/q4fjy">https://doi.org/10.31219/osf.io/q4fjy</a>
 
@@ -19,6 +19,8 @@ Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A.
 <hr style="clear:both; color:grey;">
 
 Wacewicz, S., Lewandowski, Z., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. P. (2025). ApeFD: Apemen Faces Database. <i>Repository for Open Data</i>. <a href="https://doi.org/10.18150/L2RHIA">https://doi.org/10.18150/L2RHIA</a>
+
+Buchanan, E. M., Lewis, S., Paris, B., Forscher, P. S., Pavlacic, J. M., Beshears, J., ...[incl. <b>Szala, A.</b>]... & Jere. (2023). The Psychological Science Accelerator’s COVID-19 rapid-response dataset. <i>Scientific Data, 10</i>(88). <a href="https://ideas.repec.org/p/hal/journl/hal-04048927.html">https://doi.org/10.1038/s41597-022-01811-7</a>
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
