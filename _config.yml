@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anna
 middle_name: 
 last_name: Szala
-email: szala@oakland.edu
+email: aszala@umk.pl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Anna Szala's personal website. Publications, projects, sciency stuff. ✨
 #footer_text: >
@@ -97,7 +97,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  <br /><br />Best to contact me using <b>szala「at」oakland.edu</b>.<br>
+  <br /><br />Best to contact me using <b>aszala「at」umk.pl</b>.<br>
   © Copyright <script>document.write(new Date().getFullYear());</script> Anna Szala. Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
