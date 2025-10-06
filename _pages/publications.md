@@ -29,6 +29,8 @@ Lewandowski, Z., Wacewicz, S., Perea-García, J. O., Fiala, V., Sibierska, M., <
 
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2025). How much conversation content is actually social: Human conversational behaviour revisited. <i>Language and Cognition, 17</i>, e11. <a href="https://www.cambridge.org/core/journals/language-and-cognition/article/how-much-conversation-content-is-actually-social-human-conversational-behaviour-revisited/61BF5C91583F04053BE9471ED96FAE1D">http://doi.org/10.1017/langcog.2024.54</a>
 
+Buchanan, E. M., Cuccolo, K., Heyman, T., Van Berkel, N., Coles, N. A., Iyer, A., …[incl. <b>Szala, A.</b>]… Lewis, S. C. (2025). Measuring the semantic priming effect across many languages. <i>Nature Human Behaviour</i>. <a href="https://www.nature.com/articles/s41562-025-02254-x">https://doi.org/10.1038/s41562-025-02254-x</a>
+
 Placiński, M., Żywiczyński, P., Matzinger, T., Sibierska, M., Boruta-Żywiczyńska, M., <b>Szala, A.</b>, & Wacewicz, S. (2023). Evolution of pantomime in dyadic interaction. A motion capture study. <i>Journal of Language Evolution, lzad010</i>. <a href="https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzad010/7277172?redirectedFrom=fulltext">http://doi.org/10.1093/jole/lzad010</a>
 
 Danel, D. P., Perea-García, J. O., Lewandowski, Z., <b>Szala, A.</b>, Fedurek, P., Kleisner, K., & Wacewicz, S. (2023). Is there no beauty in sexually dimorphic eyes? Facial attractiveness and White Europeans ocular morphology — Brief communication. <i>PLoS ONE, 18</i>(4), e0284079. <a href="https://doi.org/10.1371/journal.pone.0284079">https://doi.org/10.1371/journal.pone.0284079</a>
