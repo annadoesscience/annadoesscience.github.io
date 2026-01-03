@@ -17,16 +17,16 @@ nav: true
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Education</h2>
 <hr style="clear:both; color:grey;">
 
-2025: PhD, Psychology
+<b>2025</b>: PhD, Psychology <br />
 <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan, USA.
 
-...: Master’s degree, Cognitive science
+<b>...</b>: Master’s degree, Cognitive science <br />
 <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 
-2018: Master’s degree, Biology
+<b>2018</b>: Master’s degree, Biology <br />
 <a href="https://biologia.uwr.edu.pl/struktura/zaklady/zaklad-biologii-czlowieka/">Department of Human Biology</a>, University of Wrocław, Poland.<br />
 
-2013: Master’s degree, Psychology
+<b>2013</b>: Master’s degree, Psychology <br />
 <a href="https://www.ukw.edu.pl/jednostka/faculty-of-psychology">Faculty of Psychology</a>, Kazimierz Wielki University, Poland.<br />
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Ongoing collaborations</h2>
