@@ -5,7 +5,7 @@ title: affiliations
 description: Associations I belong to.
 nav: true
 ---
-<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Current affiliations</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Main affiliations</h2>
 <hr style="clear:both; color:grey;">
 
 🔎 <u>Researching</u>:<br />
@@ -14,15 +14,23 @@ nav: true
 👩‍🏫 <u>Teaching</u>:<br />
 <a href="http://psychologia.umk.pl/">Institute of Psychology</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 
-🎓 <u>Studying</u>:<br />
-<a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's degree, Cognitive science 🧠<br />
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Education</h2>
+<hr style="clear:both; color:grey;">
 
+2025: PhD, Psychology
+<a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan, USA.
+
+...: Master’s degree, Cognitive science
+<a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
+
+2018: Master’s degree, Biology
+<a href="https://biologia.uwr.edu.pl/struktura/zaklady/zaklad-biologii-czlowieka/">Department of Human Biology</a>, University of Wrocław, Poland.<br />
+
+2013: Master’s degree, Psychology
+<a href="https://www.ukw.edu.pl/jednostka/faculty-of-psychology">Faculty of Psychology</a>, Kazimierz Wielki University, Poland.<br />
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Ongoing collaborations</h2>
 <hr style="clear:both; color:grey;">
-
-<a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan, USA.
 
 <a href="https://www.neuroteklab.com/">Neuropsychology and Experimental Psychology Lab</a>, Department of Psychology, Universidad de Cádiz, Spain. 
 
@@ -36,23 +44,6 @@ nav: true
 
 <a href="https://www.epob.org/">Electoral Psychology Observatory</a>, The London School of Economics and Political Science, United Kingdom.
 
-
-<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Scientific associations</h2>
-<hr style="clear:both; color:grey;">
-
-<u>Current</u>:<br />
-<a href="http://ptnce.pl/main.php?page=start&lang=en"><b>Polish Society of Human and Evolution Sciences</b></a> 🇵🇱<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Function: <b>Executive Board</b> and social media management<br />
-<a href="https://cles.umk.pl/"><b>Centre for Language Evolution Studies</b></a> 🇵🇱<br />
-<a href="https://www.cambridge.org/core/membership/ehbea"><b>European Human Behaviour and Evolution Association</b></a> 🇪🇺<br />
-<a href="https://www.hbes.com/"><b>Human Behavior & Evolution Society</b></a> 🇺🇸<br />
-
-<u>Past</u>:<br />
-<a href="https://www.facebook.com/mskngoryl/"><b>Interdepartmental Student Association ‘Goryl’</b></a> 🇵🇱 ❤️<br />
-<a href="https://www.toddkshackelford.com/"><b>Evolutionary Psychology Lab</b></a> 🇺🇸<br />
-<a href="https://oakland.edu/biology/directory/battistuzzi"><b>Battistuzzi’s Bioinformatics Lab</b></a> 🇺🇸<br />
-<a href="https://twitter.com/HumeLaboratory"><b>HumeLaboratory</b></a> 🇫🇮<br />
-
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past collaborations</h2>
 <hr style="clear:both; color:grey;">
 
@@ -64,6 +55,6 @@ nav: true
 
 <a href="https://oakland.edu/biology/directory/battistuzzi/">Battistuzzi's Bioinformatics Lab</a>, Department of Biological Sciences, Oakland University, USA.<br />
 
-<a href="https://www.ukw.edu.pl/jednostka/faculty-of-psychology">Faculty of Psychology</a>, Kazimierz Wielki University, Poland.<br />
 
-<a href="https://biologia.uwr.edu.pl/struktura/zaklady/zaklad-biologii-czlowieka/">Department of Human Biology</a>, University of Wrocław, Poland.<br />
+
+
