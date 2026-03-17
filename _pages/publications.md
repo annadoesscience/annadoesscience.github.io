@@ -9,6 +9,8 @@ nav: true
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Preprints</h2>
 <hr style="clear:both; color:grey;">
 
+Fiala, V., Wacewicz, S., <b>Szala, A.</b>, Saribay, S. A., Leongómez, J., Berenji, M., ... Kleisner, K. (2026, March 17). Evidence of systematic differences between the faces of social media creators and the general population. <a href="https://doi.org/10.31234/osf.io/qthwv_v1">https://doi.org/10.31234/osf.io/qthwv_v1</a>
+
 Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...[incl. <b>Szala, A.</b>]... Görzig, A. (2024, June 5). Large-scale cross-societal examination of real- and minimal-group biases. <a href="https://doi.org/10.31234/osf.io/5gpr4">https://doi.org/10.31234/osf.io/5gpr4</a>
 
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
