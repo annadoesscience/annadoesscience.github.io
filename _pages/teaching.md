@@ -10,7 +10,11 @@ nav_order: 5
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Future</h2>
 <hr style="clear:both; color:grey;">
 
-✨TBA✨
+2025—2026 ☀️ Summer semester, 2404-P-MF-PHS — Lecturer<br />
+<a href="https://usosweb.umk.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&kod=2404-P-MF-PHS&lang=en"><b>Psychology of Human Spaceflight</b></a>, Nicolaus Copernicus University in Toruń, Poland.
+
+2025—2026 ☀️ Summer semester, 2404-P-MF-FEP — Lecturer<br />
+<a href="https://usosweb.umk.pl/kontroler.php?_action=katalog2%2Fprzedmioty%2FpokazPrzedmiot&prz_kod=2404-P-MF-FEP&callback=g_23bbd5bb&lang=en"><b>Foundations of Evolutionary Psychology</b></a>, Nicolaus Copernicus University in Toruń, Poland.
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Past</h2>
 <hr style="clear:both; color:grey;">
