@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Future</h2>
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Ongoing</h2>
 <hr style="clear:both; color:grey;">
 
 2025—2026 ☀️ Summer semester, 2404-P-MF-PHS — Lecturer<br />
