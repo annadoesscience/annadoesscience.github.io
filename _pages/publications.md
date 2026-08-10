@@ -27,6 +27,8 @@ Buchanan, E. M., Lewis, S., Paris, B., Forscher, P. S., Pavlacic, J. M., Beshear
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
+Perea-García, J. O., <b>Szala, A.</b>, Duran, E., Spierings, M., Matzinger, T., Karagül, E., Atakul, F., Delliponti, A., Szczepańska, A., Kuleshova, S., & Wacewicz, S. (2026). Pygmy marmosets (<i>Cebuella pygmaea</i>) do not differentially react to images of conspecifics varying in their ocular appearance. <i>Evolutionary Human Sciences</i>, 1–30. <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/pygmy-marmosets-cebuella-pygmaea-do-not-differentially-react-to-images-of-conspecifics-varying-in-their-ocular-appearance/4118A662B4D1CB66EABF12C147D2D5F3">https://doi.org/10.1017/ehs.2026.10066</a>
+
 Lewandowski, Z., Wacewicz, S., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. P. (2025). The Apemen Faces Database (ApeFD). <i>Scientific Data, 12</i>(1), 1458. <a href="https://rdcu.be/eBHwK">https://doi.org/10.1038/s41597-025-05813-z</a>
 
 <b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2025). How much conversation content is actually social: Human conversational behaviour revisited. <i>Language and Cognition, 17</i>, e11. <a href="https://www.cambridge.org/core/journals/language-and-cognition/article/how-much-conversation-content-is-actually-social-human-conversational-behaviour-revisited/61BF5C91583F04053BE9471ED96FAE1D">http://doi.org/10.1017/langcog.2024.54</a>
