@@ -27,6 +27,8 @@ Buchanan, E. M., Lewis, S., Paris, B., Forscher, P. S., Pavlacic, J. M., Beshear
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
+Fedurek, P., <b>Szala, A.</b>, Kulik, T., & Danel, D. P. (2026). Integration in social networks and perceived vulnerability to disease among high school students. <i>Journal of Health Psychology</i>. <a href="https://journals.sagepub.com/doi/10.1177/13591053261477845">https://doi.org/10.1177/13591053261477845</a>
+
 Perea-García, J. O., <b>Szala, A.</b>, Duran, E., Spierings, M., Matzinger, T., Karagül, E., Atakul, F., Delliponti, A., Szczepańska, A., Kuleshova, S., & Wacewicz, S. (2026). Pygmy marmosets (<i>Cebuella pygmaea</i>) do not differentially react to images of conspecifics varying in their ocular appearance. <i>Evolutionary Human Sciences</i>, 1–30. <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/pygmy-marmosets-cebuella-pygmaea-do-not-differentially-react-to-images-of-conspecifics-varying-in-their-ocular-appearance/4118A662B4D1CB66EABF12C147D2D5F3">https://doi.org/10.1017/ehs.2026.10066</a>
 
 Lewandowski, Z., Wacewicz, S., Perea-García, J. O., Fiala, V., Sibierska, M., <b>Szala, A.</b>, & Danel, D. P. (2025). The Apemen Faces Database (ApeFD). <i>Scientific Data, 12</i>(1), 1458. <a href="https://rdcu.be/eBHwK">https://doi.org/10.1038/s41597-025-05813-z</a>
