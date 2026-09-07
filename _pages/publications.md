@@ -6,17 +6,6 @@ description: My publications by categories in reversed chronological order.
 #years: [1956, 1950, 1935, 1905]
 nav: true
 ---
-<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Preprints</h2>
-<hr style="clear:both; color:grey;">
-
-Fiala, V., Wacewicz, S., <b>Szala, A.</b>, Saribay, S. A., Leongómez, J., Berenji, M., ... Kleisner, K. (2026, March 17). Evidence of systematic differences between the faces of social media creators and the general population. <a href="https://doi.org/10.31234/osf.io/qthwv_v1">https://doi.org/10.31234/osf.io/qthwv_v1</a>
-
-Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...[incl. <b>Szala, A.</b>]... Görzig, A. (2024, June 5). Large-scale cross-societal examination of real- and minimal-group biases. <a href="https://doi.org/10.31234/osf.io/5gpr4">https://doi.org/10.31234/osf.io/5gpr4</a>
-
-<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
-
-Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A., ...[incl. <b>Szala, A.</b>]... Lewis, S. C. (2021, December 7). Measuring the semantic priming effect across many languages. <a href="https://osf.io/preprints/osf/q4fjy">https://doi.org/10.31219/osf.io/q4fjy</a>
-
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Databases</h2>
 <hr style="clear:both; color:grey;">
 
@@ -55,6 +44,17 @@ Antfolk, J., <b>Szala, A.</b>, & Öblom, A. (2019). Discrimination based on gend
 
 Antfolk, J., Karlsson, L. C., Söderlund, J., & <b>Szala, A.</b> (2017). Willingness to Invest in Children: Psychological Kinship Estimates and Emotional Closeness. <i>Evolutionary Psychology, 15</i>(2), 1–10. <a href="https://doi.org/10.1177/1474704917705730">https://doi.org/10.1177/1474704917705730</a>
 
+<h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Preprints</h2>
+<hr style="clear:both; color:grey;">
+
+Fiala, V., Wacewicz, S., <b>Szala, A.</b>, Saribay, S. A., Leongómez, J., Berenji, M., ... Kleisner, K. (2026, March 17). Evidence of systematic differences between the faces of social media creators and the general population. <a href="https://doi.org/10.31234/osf.io/qthwv_v1">https://doi.org/10.31234/osf.io/qthwv_v1</a>
+
+Yang, X., Schulz, J. F., Schmidt, K., Kenny, A. R., Pfuhl, G., Gjoneska, B., ...[incl. <b>Szala, A.</b>]... Görzig, A. (2024, June 5). Large-scale cross-societal examination of real- and minimal-group biases. <a href="https://doi.org/10.31234/osf.io/5gpr4">https://doi.org/10.31234/osf.io/5gpr4</a>
+
+<b>Szala, A.</b>, Wacewicz, S., Placiński, M., Poniewierska, A. E., Schmeichel, A., Stefańczyk, M., ... Dunbar, R. I. M. (2024, May 10). How much language use is actually on social topics: Human conversational behavior revisited. <a href="https://osf.io/preprints/psyarxiv/d42gr">https://doi.org/10.31234/osf.io/d42gr</a>
+
+Buchanan, E. M., Cuccolo, K., Heyman, T., van Berkel, N., Coles, N. A., Iyer, A., ...[incl. <b>Szala, A.</b>]... Lewis, S. C. (2021, December 7). Measuring the semantic priming effect across many languages. <a href="https://osf.io/preprints/osf/q4fjy">https://doi.org/10.31219/osf.io/q4fjy</a>
+
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Pre-registrations</h2>
 <hr style="clear:both; color:grey;">
 
@@ -73,6 +73,8 @@ Fry, D. P. & <b>Szala, A.</b> (2013). The Evolution of Agonism. In: Fry, D. P. (
 
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Conference proceedings</h2>
 <hr style="clear:both; color:grey;">
+
+Fiala, V., <b>Szala, A.</b>, & Wacewicz, S. (2026). The human evolved preference for faces and Youtube thumbnails aesthetics. In S. Hartmann, M. Sibierska, M. Fröhlich, M. Josserand, Y. Jadoul, K. Mudd, T. Matzinger, J. Nölle, M. Pleyer, S. Wacewicz, & P. Żywiczyński (Eds.): <i>The Evolution of Language: Proceedings of the 16th International Conference on the Evolution of Language (Evolang XVI)</i>. <a href="https://evolang.org/2026/proceedings/evolang16_proceedings.pdf">https://doi.org/10.17617/2.3696655</a>
 
 Ng, Y. Y., Placiński, M., & <b>Szala, A.</b> (2025). The impact of instructor presence formats on learning outcomes, visual attention, and cognitive load in educational videos: An eye-tracking study. In <i>33rd International Conference on Information Systems Development</i>. University of Gdansk, Department of Business Informatics & University of Belgrade, Faculty of Organizational Sciences. <a href="https://aisel.aisnet.org/isd2014/proceedings2025/education/11/">https://doi.org/10.62036/isd.2025.131</a> 
 
