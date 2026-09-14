@@ -20,7 +20,7 @@ nav: true
 <b>2025</b>: PhD, Psychology <br />
 <a href="https://www.oakland.edu/psychology/">Department of Psychology</a>, Oakland University, Rochester, Michigan, USA.
 
-<b>...</b>: Master’s degree, Cognitive science <br />
+<b>2026</b>: Master’s degree, Cognitive science <br />
 <a href="https://kognitywistyka.umk.pl/pages/cognitive_science/">Department of Cognitive Science</a>, Nicolaus Copernicus University in Toruń, Poland. <br />
 
 <b>2018</b>: Master’s degree, Biology <br />
