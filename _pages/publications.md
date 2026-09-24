@@ -16,6 +16,8 @@ Buchanan, E. M., Lewis, S., Paris, B., Forscher, P. S., Pavlacic, J. M., Beshear
 <h2 class="category" style="float:right; color: var(--global-divider-color); margin-bottom: 0;">Journal articles</h2>
 <hr style="clear:both; color:grey;">
 
+Ramallo-Luna, M. A., Gonzalez-Torre, S., <b>Szala, A.</b>, García Sedeño, M. A., & de la Torre, G. G. (2026). Personality profiles among novice UAV operators: A facet-based, person-centered study of simulator performance. <i>The International Journal of Aerospace Psychology</i>, 1–18. <a href="https://www.tandfonline.com/eprint/G9KM4D8PRHKHG5R6F9CG/full?target=10.1080/24721840.2026.2737621">https://doi.org/10.1080/24721840.2026.2737621</a>
+
 Fedurek, P., <b>Szala, A.</b>, Kulik, T., & Danel, D. P. (2026). Integration in social networks and perceived vulnerability to disease among high school students. <i>Journal of Health Psychology</i>. <a href="https://journals.sagepub.com/doi/10.1177/13591053261477845">https://doi.org/10.1177/13591053261477845</a>
 
 Perea-García, J. O., <b>Szala, A.</b>, Duran, E., Spierings, M., Matzinger, T., Karagül, E., Atakul, F., Delliponti, A., Szczepańska, A., Kuleshova, S., & Wacewicz, S. (2026). Pygmy marmosets (<i>Cebuella pygmaea</i>) do not react to varying ocular appearance. <i>Evolutionary Human Sciences, 8</i>, e37, 1–18. <a href="https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/pygmy-marmosets-cebuella-pygmaea-do-not-differentially-react-to-images-of-conspecifics-varying-in-their-ocular-appearance/4118A662B4D1CB66EABF12C147D2D5F3">https://doi.org/10.1017/ehs.2026.10066</a>
